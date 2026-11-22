@@ -1,0 +1,11 @@
+{
+ "name": "Black Flies of the Oriental Region",
+ "short_name": "Black Flies",
+ "description": "Identification keys, species pages and terminology",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#fbfaf7",
+ "theme_color": "#1f5c4a",
+ "icons": []
+}

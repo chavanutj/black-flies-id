@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Home | Black Flies</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#1f5c4a"><meta name="color-scheme" content="only light">
+
+<script>(function(){var d=document.documentElement,q=new URLSearchParams(location.search),s=null,v=null;
+try{s=localStorage.getItem("sf-size");v=localStorage.getItem("sf-view");}catch(e){}
+if(q.get("size")){s=q.get("size");try{localStorage.setItem("sf-size",s);}catch(e){}}
+if(q.get("view")){v=q.get("view");try{localStorage.setItem("sf-view",v);}catch(e){}}
+if(s==="xl"||s==="phone")s="l";d.dataset.size=s||"m";d.dataset.view=v||"normal";})();</script></head>
+<body>
+<header class="banner"><a class="brand" href="index.html"><span class="t1">Black Flies of the Oriental Region</span>
+<span class="t2">Identification keys, species pages and terminology</span></a>
+<div class="viewctl" role="group" aria-label="Display settings">
+<span class="lbl">Text</span><button type="button" data-size="s" title="Small text">Small</button><button type="button" data-size="m" title="Medium text">Medium</button><button type="button" data-size="l" title="Large text">Large</button>
+<button type="button" class="scope" data-view="scope" title="Large high-contrast view for use beside the microscope">🔬 Microscope mode</button>
+<button type="button" id="installbtn" class="install" hidden title="Install this site as an app on this device">⤓ Install app</button>
+<span id="offline" class="offline" hidden aria-live="polite"></span></div></header>
+<div class="wrap">
+<nav class="side"><ul><li><a href="index.html" class=on>Home</a></li><li><a href="keys.html">Identification keys</a></li><li><a href="taxa/index.html">Species list</a></li><li><a href="thailand.html">Thailand records</a></li><li><a href="glossary.html">Glossary</a></li><li><a href="figures.html">Figures</a></li><li><a href="conflicts.html">Conflicts &amp; updates</a></li><li><a href="sources.html">Sources</a></li><li><a href="about.html">About / how to edit</a></li></ul>
+<form class="search" action="taxa/index.html"><input name="q" placeholder="Find a species…" aria-label="Find a species"></form>
+</nav>
+<main><section class="hero">
+<div class="hero-text"><p class="eyebrow">Diptera · Nematocera · Simuliidae</p>
+<h1>Black Flies of the Oriental Region</h1>
+<div class="lede"><p>Black flies (Simuliidae) are small, stout-bodied biting flies whose larvae and pupae live in running water. Females of some species transmit <i>Onchocerca</i> filariae and <i>Leucocytozoon</i> blood parasites. Identification uses the adult (female and male), the pupa (gill filaments, cocoon) and the mature larva.</p><p>This site brings together the published dichotomous keys for the Oriental Region and updates them with later taxonomic work on Thailand and neighbouring countries.</p></div>
+<p class="cta"><a class="btn" href="taxa/index.html">Browse species</a><a class="btn" href="glossary.html">Glossary</a></p></div>
+</section>
+<div class="tiles">
+<a href="keys.html"><span class="ico">🔑</span><b>0</b> identification keys<span>0 leads, 0 couplets</span></a>
+<a href="taxa/index.html"><span class="ico">🪰</span><b>0</b> taxa<span>with key paths and notes</span></a>
+<a href="thailand.html"><span class="ico">📍</span><b>0</b> recorded from Thailand<span>in the sources used</span></a>
+<a href="conflicts.html"><span class="ico">⚖️</span><b>0</b> documented conflicts<span>plus 0 update notes</span></a>
+</div>
+<h2>Quick start</h2>
+<ol class="steps"><li>Open <a href="keys.html">the keys</a> and use <b>Step through</b>.</li><li>Read any <span class="warn">⚠</span> note on the leads you passed.</li><li>Open the species page and compare diagnostic notes, conflicts and figures.</li></ol>
+<h2>Keys</h2><h3>Main keys <span class="count">0</span></h3><div class="keygrid"></div></main></div>
+<footer>Built 2026-11-23 from <code>data/*.csv</code>. Key texts are transcribed from the cited
+publications; check the original before formal identification. Figures © their authors (CC BY 4.0 where stated).</footer>
+<script src="assets/site.js"></script>
+</body></html>

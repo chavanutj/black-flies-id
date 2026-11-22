@@ -1,0 +1,3 @@
+# Update notes: later literature that affects the result of a lead.
+# These are NOT part of the printed keys. They are appended to the note column as "UPDATE: ...".
+# Format: key_id lead_id | note
