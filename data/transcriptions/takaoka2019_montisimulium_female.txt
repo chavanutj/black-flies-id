@@ -1,0 +1,12 @@
+# key_id: takaoka2019_montisimulium_female
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 64. Covers: adult females of 6 Thai species of Simulium (Montisimulium).
+1a | Claw with small subbasal tooth | | Simulium phahompokense | | Takaoka et al. 2019 p. 64
+1b | Claw with medium-sized basal tooth | 2 | | |
+2a | Claw tooth 0.28 times as long as claw | | Simulium surachaii | |
+2b | Claw tooth 0.32-0.38 times as long as claw | 3 | | |
+3a | Hind basitarsus 7.3 times as long as its greatest width | | Simulium angkaense | |
+3b | Hind basitarsus 6.3-6.6 times as long as its greatest width | 4 | | |
+4a | Sensory vesicle 0.43-0.50 times as long as third palpomere of maxillary palp | | Simulium nanense | |
+4b | Sensory vesicle 0.6 times as long as third palpomere of maxillary palp | 5 | | |
+5a | Fifth palpomere of maxillary palp 1.1 times length of third one | | Simulium laoleense | |
+5b | Fifth palpomere of maxillary palp 1.9 times length of third one | | Simulium merga | |

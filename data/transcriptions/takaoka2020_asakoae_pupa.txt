@@ -1,0 +1,28 @@
+# key_id: takaoka2020_asakoae_pupa
+# Takaoka, H., Srisuka, W., Fukuda, M. & Saeung, A. (2020) Twenty-one new species of the Simulium (Gomphostilbia) asakoae species group (Diptera, Simuliidae) in Thailand, with their genetic relationships. ZooKeys 950: 51-152. Key on pp. 144-145. Covers: pupae of Thai species of the Simulium asakoae species-group (25 species named in key; pupae of S. kiewfinense and S. nanthaburiense are also described in text and match couplet 12a).
+1a | Cocoon with elongate anterodorsal projection (2.0 mm or little longer) extended far beyond anteroventral tips of cocoon | 2 | | | Takaoka et al. 2020 p. 144
+1b | Cocoon with or without anterodorsal bulge or short anterodorsal projection (up to ca. 1.0 mm long) extended at most up to anteroventral tips of cocoon | 3 | | |
+2a | Gill with six filaments | | Simulium udomi | |
+2b | Gill with eight filaments | | Simulium chiangdaoense | |
+3a | Dorsum of abdominal segments 1 and 2 or 1–3 or 1–5 light to medium brown or light greyish brown | 4 | | |
+3b | Dorsum of abdominal segments 1 and 2 unpigmented or light yellowish | 5 | | |
+4a | Dorsum of abdominal segments 1 and 2 or 1–3 light to medium brown; cocoon with short bulge | | Simulium asakoae | |
+4b | Dorsum of abdominal segments 1–5 light greyish brown; cocoon with short projection (Fig. 24K) | | Simulium inthanonense | |
+5a | Dorsum of abdominal segment 1 sparsely covered with minute tubercles | 6 | | |
+5b | Dorsum of abdominal segment 1 without minute tubercles | 7 | | |
+6a | Outer margin of terminal hook 2.2 times length of inner margin (Fig. 8G) | | Simulium loeiense | |
+6b | Outer margin of terminal hook 2.7 times length of inner margin (Fig. 3B) | | Simulium thungchangense | |
+7a | Cocoon with short anterodorsal projection (Figs 7G, 20I) | 8 | | |
+7b | Cocoon without anterodorsal projection | 9 | | |
+8a | Primary stalks of dorsal and middle triplets of gill filaments much shorter than their common stalk (Fig. 20G) | | Simulium huaimorense | |
+8b | Primary stalks of dorsal and middle triplets of gill filaments nearly as long as their common stalk (Fig. 7E) | | Simulium maewongense; Simulium myanmarense | |
+9a | Terminal hooks conical, with outer margin as long as or slightly longer than inner margin and not crenulated (Figs 22K, 23K) | | Simulium klonglanense; Simulium namdanense | | Takaoka et al. 2020 p. 145
+9b | Terminal hooks widened, plate-like, with outer margin over 1.5 times length of inner margin, and crenulated | 10 | | |
+10a | Stalk of ventral pair thicker than interspiracular trunk (Fig. 17E, F) | | Simulium banluangense | |
+10b | Stalk of ventral pair thinner than interspiracular trunk | 11 | | |
+11a | Gill arranged as 3+2+(2+1) or 2+2+(2+1) from dorsal to ventral, with long common basal stalk 1.3–1.5 times length of interspiracular trunk | | Simulium rampae | |
+11b | Gill arranged as (3+3)+2 from dorsal to ventral, with medium-long common basal stalk shorter than interspiracular trunk | 12 | | | CORRECTION: printed as "interspiracular rrunk".
+12a | Outer margin of terminal hook 2.0–2.9 times as long as inner margin | | Simulium chaowaense; Simulium junkumae; Simulium maelanoiense; Simulium muangpanense; Simulium nanoiense; Simulium phapeungense; Simulium puaense; Simulium songense; Simulium sutheppuiense; Simulium teerachanense | | CORRECTION: S. nanoiense printed as "S. nanoiesne sp. nov.". Note: pupae of S. kiewfinense (outer/inner margin 2.3–2.7, p. 119) and S. nanthaburiense (1.9–2.1, p. 91) are also known and key here but were omitted from the printed list.
+12b | Outer margin of terminal hook 3.3–4.0 times as long as inner margin | 13 | | |
+13a | Filaments of ventral pair 2.1–2.3 mm long (Fig. 14G) | | Simulium maehongsonense | |
+13b | Filaments of ventral pair 2.5–3.0 mm long (Fig. 16G) | | Simulium pitasawatae | |

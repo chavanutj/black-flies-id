@@ -1,0 +1,20 @@
+# key_id: takaoka2019_nevermannia_pupa
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 65. Covers: pupae of 10 Thai species of Simulium (Nevermannia).
+1a | Gill with 4 filaments | 2 | | | Takaoka et al. 2019 p. 65
+1b | Gill with 6 filaments | 3 | | |
+2a | Length ratio of common basal stalk of gill against interspiracular trunk 0.76-0.79 | | Simulium chomthongense | |
+2b | Length ratio of common basal stalk of gill against interspiracular trunk 0.50-0.65 | | Simulium khunklangense | |
+3a | All filaments divergent widely from base | | Simulium aureohirtum | |
+3b | All filaments extending forwards close together | 4 | | |
+4a | Cocoon with anterodorsal projection | 5 | | |
+4b | Cocoon without anterodorsal projection | 7 | | |
+5a | Gill filaments arranged as 2+1+2+1 from inside to outside, lying horizontally | | Simulium maeaiense | |
+5b | Gill filaments arranged otherwise, not lying horizontally | 6 | | |
+6a | Gill filaments arranged as 4+2 from dorsal to ventral | | Simulium feuerborni | | Printed as "S. feuerborni (complex)".
+6b | Gill filaments arranged as 2+1+1+2 or 3+1+2 from dorsal to ventral | | Simulium fangense | |
+7a | Common basal stalk longer than interspiracular trunk | | Simulium vessabutrae | |
+7b | Common basak stalk much shorter than interspiracular trunk | 8 | | | As printed ("basak" for basal).
+8a | Fons and thorax covered with dark brown rather large tubercles. Facial trichome short and slender, slightly longer than frontal ones. Gill filaments covered with rather large tubercles on ridges | | Simulium wichaii | | As printed ("Fons" for Frons).
+8b | Frons and thorax covered with light brown small tubercles. Facial trichome medium-long and somewhat stout, 2.5 times as long as frontal ones. Gill filaments covered with small tubercles on ridge | 9 | | |
+9a | Stalk of ventral paired filaments medium-long to long | | Simulium fruticosum | |
+9b | Stalk of ventral paired filaments short | | Simulium chiangklangense | |

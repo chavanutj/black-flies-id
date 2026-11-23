@@ -1,0 +1,98 @@
+# key_id: takaoka2019_simulium_pupa
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 69-71. Covers: pupae of 53 Thai species of Simulium (Simulium) s. str. Footnote (p. 75): pupae of S. barnesi and S. umphangense are unknown.
+1a | Gill with 2 or 3 inflated tubes | 2 | | | Takaoka et al. 2019 p. 69
+1b | Gill with 6-10 fiaments | 4 | | | As printed ("fiaments" for filaments).
+2a | Gill with 2 inflated tubes | 3 | | |
+2b | Gill with 3 inflated tubes with rounded apex | | Simulium nodosum | |
+3a | Gill with long inflated common basal stalk | | Simulium baimaii | |
+3b | Gill with short common basal stalk | | Simulium lomkaoense | |
+4a | Gill with 6 filaments | 5 | | |
+4b | Gill with 8-10 filaments | 35 | | |
+5a | Gill with 6 inflated tubal filaments with minute spines | 6 | | |
+5b | Gill with 6 thread-like filaments (with basal portions somewhat inflated or not) without minute spines | 7 | | |
+6a | Terminal hooks present | | Simulium grossifilum | |
+6b | Terminal hooks absent | | Simulium phayaoense | |
+7a | Cocoon wall-pocket shaped | 8 | | | Takaoka et al. 2019 p. 70
+7b | Cocoon shoe shaped or boot shaped | 27 | | |
+8a | Cocoon with lateral windows anteriorly | 9 | | |
+8b | Cocoon without lateral window | 15 | | |
+9a | Gill filaments subequal in length and thickness to one another | 10 | | |
+9b | Gill filaments decreasing in thickness from dorsal to ventral | 13 | | |
+10a | Gill filaments short-stalked. Spine-combs on abdominal segments 7 and 8 or 7-9 | 11 | | |
+10b | Gill filaments almost sessile. Spine-combs present only on abdominal segment 8 | 12 | | |
+11a | Spine-combs on abdominal segments 7 and 8 | | Simulium atipornae | |
+11b | Spine-combs on abdominal segments 7-9 | | Simulium siripoomense | |
+12a | Small raised area near base of gill with tubercles | | Simulium mediocoloratum | |
+12b | Small raised area near base of gill bare | | Simulium rudnicki | |
+13a | Cocoon with small lateral windows. Terminal hooks present | | Simulium maenoi | |
+13b | Cocoon with moderate lateral windows. Terminal hooks absent | 14 | | |
+14a | Integument of head densely covered with tubercles | | Simulium suchariti | |
+14b | Integument of head bare | | Simulium crocinum | |
+15a | Integument of head and thorax bare (except posterior 1/2 of thorax with minute tubercles) | 16 | | |
+15b | Integument of head and thorax moderately or densely covered with tubercles | 18 | | |
+16a | Cocoon very thin, transparent, and its anterior margin often not well defined. Inner filament of ventral pair narrowed basally. Spine-combs dorsally on abdominal segment 8. Terminal hooks absent | | Simulium yongi | |
+16b | Cocoon thickly woven, not transparent, and its anterior margin well defined. Inner filament of ventral pair not narrowed basally. Spine-combs dorsally on abdominal segments 7-9. Terminal hooks present | 17 | | |
+17a | Upper filament of dorsal pair more than twice as thick as interspiracular trunk | | Simulium srisukai | |
+17b | Upper filament of dorsal pair less than twice as thick as interspiracular trunk | | Simulium chamlongi | |
+18a | Frontal trichomes each with 8-12 slender branches | | Simulium thongsahuani | | CORRECTION: printed as "S. thongsuhani" (misspelling of S. thongsahuani).
+18b | Frontal trichomes unbranched | 19 | | |
+19a | Gill with short common basal stalk | 20 | | |
+19b | Gill without common basal stalk | 23 | | |
+20a | Terminal hooks present | 21 | | |
+20b | Terminal hooks absent | 22 | | |
+21a | Basal portion of upper filament of dorsal pair nearly as thick as interspiracular trunk | | Simulium kiewmaepanense | |
+21b | Basal portion of upper filament of dorsal pair 1.6-1.8 times as thick as interspiracular trunk | | Simulium luculentum | |
+22a | Frons densely covered with tubercles | | Simulium tenebrosum | | Printed as "S. tenebrosum (complex)".
+22b | Frons moderately covered with tubercles | | Simulium doipuiense | | Printed as "S. doipuiense (complex)".
+23a | Thoracic integument with pit-like organ at base of gill | 24 | | |
+23b | Thoracic integument without pit-like organ at base of gill | 25 | | |
+24a | Lower filament of ventral pair directed forward | | Simulium brevipar | |
+24b | Lower filament of ventral pair directed downwardly and posteriorly | | Simulium yuphae | |
+25a | Abdominal segment 7 without spine-combs dorsally | | Simulium weji | |
+25b | Abdominal segment 7 with spine-combs dorsally | 26 | | |
+26a | Inner filament of ventral pair much thinner than outer filament. Terminal hooks present | | Simulium tani | | Printed as "S. tani (complex)".
+26b | Two filaments of ventral pair subequal in thickness. Terminal hooks absent | | Simulium manooni; Simulium setsukoae | |
+27a | Cocoon loosely woven, with many small open spaces | 28 | | |
+27b | Cocoon tightly woven | 29 | | |
+28a | Gill filaments somewhat inflated, larger in diameter than interspiracular trunk. Terminal hooks large, longer than their basal width | | Simulium choochotei | |
+28b | Gill filaments not so inflated, smaller in diameter than interspiracular trunk. Terminal hooks of moderate size, shorter than their basal width | | Simulium visuti | |
+29a | Cocoon with anterolateral flap and small anterolateral window on each side | | Simulium digrammicum | |
+29b | Cocoon without such flap and window | 30 | | |
+30a | Gill filaments decreasing in length and thickness from dorsal to ventral. Facial and frontal trichomes branched | 31 | | |
+30b | Gill filaments subequal in length and thickness to one another. Facial and frontal trichomes unbranched | 32 | | | Takaoka et al. 2019 p. 71
+31a | Gill filaments light yellowish-white to yellowish-brown. Terminal hooks present | | Simulium pukaengense | |
+31b | Gill filaments dark brown. Terminal hooks absent | | Simulium phukaense | |
+32a | Abdominal segment 8 with spine-combs dorsally | 33 | | |
+32b | Abdominal segment 8 without spine-combs dorsally | 34 | | |
+33a | Frons bare | | Simulium bishopi | |
+33b | Frons sparsely or moderately covered with tubercles | | Simulium vanluni | |
+34a | Two filaments of ventral pair thicker than interspiracular trunk | | Simulium nigrogilvum | |
+34b | Two filaments of ventral pair thinner than interspiracular trunk | | Simulium vanellum | |
+35a | Gill with 8 filaments | 36 | | |
+35b | Gill with 10 filaments | 46 | | |
+36a | Cocoon wall-pocket shaped | 37 | | |
+36b | Cocoon shoe shaped | 42 | | |
+37a | Cocoon without lateral windows | 38 | | |
+37b | Cocoon with lateral windows | 39 | | |
+38a | Gill filaments widely divergent, angle between stalks of dorsal and ventral pairs 180 degrees | | Simulium chanyae | |
+38b | Gill filaments moderately divergent, angle between stalks of dorsal and ventral pairs 90 degrees | | Simulium malayense | | Printed as "S. malayense (complex)".
+39a | Gill with large unpigmented basal fenestra | | Simulium bullatum | |
+39b | Gill without large basal fenestra | 40 | | |
+40a | Gill filaments widely divergent, angle between stalks of dorsal and ventral pairs more than 90 degrees | | Simulium lampangense | |
+40b | Gill filaments moderately divergent, angle between stalks of dorsal and ventral pairs 90 degrees or less | 41 | | |
+41a | Spine-combs only on dorsal surface of abdominal segment 8 | | Simulium daoense | |
+41b | Spine-combs on dorsal surface of abdominal segments 7 and 8 | | Simulium fenestratum; Simulium undecimum | | Printed as "S. fenestratum (complex) & S. undecimum".
+42a | Cocoon roughly woven anteriorly, leaving some large open spaces in anterior collar and many small open spaces near anterior margin | 43 | | |
+42b | Cocoon without open spaces | 44 | | |
+43a | All gill filaments subequal in thickness to one another | | Simulium triglobus | |
+43b | Two filaments of ventral pair much thinner than others | | Simulium chiangmaiense | |
+44a | At least 2 gill filaments directed posteriorly. Terminal hooks present | | Simulium takense | |
+44b | Gill filaments not directed posteriorly. Terminal hooks absent | 45 | | |
+45a | Basal portion of upper filament of dorsal pair about 1.4 times as thick as lower filament of ventral pair | | Simulium chaliowae | |
+45b | Basal portion of upper filament of dorsal pair about twice as thick as lower filament of ventral pair | | Simulium chainarongi | |
+46a | Gill filaments arranged as 2+3+3+2 from dorsal to ventral. All gill filaments subequal in thickness to one another | | Simulium quinquestriatum | |
+46b | Gill filaments arranged as 2+2+2+2+2 or 2+1+2+1+2+2 from dorsal to ventral. Four or five dorsal filaments slightly to markedly thicker than others | 47 | | |
+47a | Gill filaments lacking ridges and furrows | | Simulium phraense | |
+47b | Gill filaments with ridges and furrows | 48 | | |
+48a | Head integument with round tubercles | | Simulium nakhonense | |
+48b | Head integument with angular tubercles | | Simulium thailandicum | |

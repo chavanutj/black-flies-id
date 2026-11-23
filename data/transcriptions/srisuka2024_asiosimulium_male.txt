@@ -1,0 +1,16 @@
+# key_id: srisuka2024_asiosimulium_male
+# Srisuka, W., Takaoka, H., Taai, K., Maleewong, W., Aupalee, K. & Saeung, A. (2024) Morphological description and genetic analysis of a new black fly species (Diptera: Simuliidae) in the subgenus Asiosimulium from central Thailand. Parasites & Vectors 17: 379. Key on pp. 15-16. Covers: adult males of 8 of the 9 known species of Simulium (Asiosimulium) (Thailand, Myanmar, Nepal). Footnote (p. 16): The male of S. suchitrae is unknown.
+1a | Hind basitarsus slightly widened, 0.80 times as wide as hind tibia | 2 | | | Srisuka et al. 2024 p. 15
+1b | Hind basitarsus much widened, 0.90–1.00 times as wide as hind tibia | 5 | | |
+2a | Sensory vesicle 0.35 times as long as third palp segment | | Simulium phurueaense | |
+2b | Sensory vesicle shorter than 0.30 times of third palp segment | 3 | | |
+3a | Abdominal segments five to eight without pair of shiny dorsolateral patches | | Simulium oblongum | | Srisuka et al. 2024 p. 16
+3b | Abdominal segments five to eight each with pair of shiny dorsolateral patches | 4 | | |
+4a | Upper-eye (large) facets in 20 vertical columns, median sclerite upturned apically | | Simulium kittipati | |
+4b | Upper-eye (large) facets in 17–18 vertical columns, median sclerite normally | | Simulium khongchiamense | | As printed ("median sclerite normally", i.e., not upturned apically).
+5a | Abdominal segments five to eight each with pair of shiny dorsolateral patches | 6 | | |
+5b | Abdominal segments five to eight without pair of shiny patches | 7 | | |
+6a | Abdominal segments three and four with pair of shiny dorsolateral patches | | Simulium shanense | |
+6b | Abdominal segments three and four without pair of shiny dorsolateral patches | | Simulium saeungae | |
+7a | Upper-eye (large) facets in 18 or 19 vertical columns | | Simulium wanchaii | |
+7b | Upper-eye (large) facets in 16 vertical columns | | Simulium furvum | |

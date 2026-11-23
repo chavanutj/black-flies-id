@@ -1,0 +1,390 @@
+# =============================================================================
+# Takaoka & Choochote (2004)
+# Takaoka, H. & Choochote, W. (2004) A list of and keys to black flies
+# (Diptera: Simuliidae) in Thailand. Tropical Medicine and Health 32(2): 189-197.
+# 20 keys: subgenera of Simulium s.l. (4 stages) and species of Daviesellum,
+# Gomphostilbia, Nevermannia, and Simulium s.str. (4 stages each).
+# Transcribed word for word from rendered page images (pp. 190-197).
+# =============================================================================
+
+# key_id: takaoka2004_subgenera_female
+# Takaoka & Choochote (2004), p. 190; Keys to the subgenera of Simulium s. l. in Thailand: Adult females
+# Footnote: *The female of Montisimulium is not included because that of S. (M.) sp. G is unknown.
+1a | Katepisternum haired | | Subgenus Gomphostilbia | | Takaoka & Choochote 2004 p. 190. Printed as "Gomphostilbia".
+1b | Katepisternum bare | 2 | | |
+2a | Claw with a large basal tooth | | Subgenus Nevermannia | | Takaoka & Choochote 2004 p. 190. Printed as "Nevermannia".
+2b | Claw simple or with a small subbasal tooth | 3 | | |
+3a | Paraproct with a cluster of dark spines | | Subgenus Daviesellum | | Takaoka & Choochote 2004 p. 190. Printed as "Daviesellum".
+3b | Paraproct without any dark spine | | Subgenus Simulium | | Takaoka & Choochote 2004 p. 190. Printed as "Simulium s. str.". Footnote: female of Montisimulium not included (that of S. (M.) sp. G is unknown).
+
+# key_id: takaoka2004_subgenera_male
+# Takaoka & Choochote (2004), p. 190; Keys to the subgenera of Simulium s. l. in Thailand: Adult males
+# Footnote: *The male of Montisimulium is not included because that of S. (M.) sp. G is unknown.
+1a | Katepisternum haired | | Subgenus Gomphostilbia | | Takaoka & Choochote 2004 p. 190. Printed as "Gomphostilbia".
+1b | Katepisternum bare | 2 | | |
+2a | Coxite longer than style | | Subgenus Nevermannia | | Takaoka & Choochote 2004 p. 190. Printed as "Nevermannia".
+2b | Coxite shorter than style | 3 | | |
+3a | Coxite much longer than wide | | Subgenus Daviesellum | | Takaoka & Choochote 2004 p. 190. Printed as "Daviesellum".
+3b | Coxite as long as, or slightly shorter than, wide | | Subgenus Simulium | | Takaoka & Choochote 2004 p. 190. Printed as "Simulium s. str.". Footnote: male of Montisimulium not included (that of S. (M.) sp. G is unknown).
+
+# key_id: takaoka2004_subgenera_pupa
+# Takaoka & Choochote (2004), p. 190; Keys to the subgenera of Simulium s. l. in Thailand: Pupae
+# Footnote: *The pupa of Montisimulium is not included because that of S. (M.) sp. G is unknown.
+1a | Grapnel-like hooklets present on the last abdominal segment | | Subgenus Gomphostilbia | | Takaoka & Choochote 2004 p. 190. Printed as "Gomphostilbia".
+1b | Grapnel-like hooklets absent on the last abdominal segment | 2 | | |
+2a | Cocoon with an anterodorsal projection | | Subgenus Nevermannia | | Takaoka & Choochote 2004 p. 190. Printed as "Nevermannia".
+2b | Cocoon without any anterodorsal projection | 3 | | |
+3a | Dorsal surface of abdominal segment 2 with stout hooks similar in size to those on abdominal segments 3 and 4 | | Subgenus Daviesellum | | Takaoka & Choochote 2004 p. 190. Printed as "Daviesellum".
+3b | Dorsal surface of abdominal segment 2 with spines (in place of such distinct hooks) much smaller than hooks on abdominal segments 3 and 4 | | Subgenus Simulium | | Takaoka & Choochote 2004 p. 190. Printed as "Simulium s. str.". Footnote: pupa of Montisimulium not included (that of S. (M.) sp. G is unknown).
+
+# key_id: takaoka2004_subgenera_larva
+# Takaoka & Choochote (2004), p. 191; Keys to the subgenera of Simulium s. l. in Thailand: Mature larvae
+1a | Hypostomium very wide, with 13 apical teeth | | Subgenus Daviesellum | | Takaoka & Choochote 2004 p. 191. Printed as "Daviesellum".
+1b | Hypostomium of moderate width, with 9 apical teeth | 2 | | |
+2a | Last abdominal segment lacks ventral papillae or with small ones | | Subgenus Simulium | | Takaoka & Choochote 2004 p. 191. Printed as "Simulium s. str.".
+2b | Last abdominal segment with large ventral papillae | 3 | | |
+3a | Postgenal cleft vestigeal | | Subgenus Montisimulium | | Takaoka & Choochote 2004 p. 191. Printed as "Montisimulium"; "vestigeal" as printed.
+3b | Postgenal cleft distinctly formed | 4 | | |
+4a | Lateral margin of hypostomium serrated | | Subgenus Nevermannia | | Takaoka & Choochote 2004 p. 191. Printed as "Nevermannia".
+4b | Lateral margin of hypostomium smooth | | Subgenus Gomphostilbia | | Takaoka & Choochote 2004 p. 191. Printed as "Gomphostilbia".
+
+# key_id: takaoka2004_daviesellum_female
+# Takaoka & Choochote (2004), p. 191; Keys to the species of the subgenus Daviesellum: Adult females
+1a | Genital fork with a distinct projection directed anteriorly | | Simulium courtneyi | | Takaoka & Choochote 2004 p. 191
+1b | Genital fork without such a projection | | Simulium pahangense | | Takaoka & Choochote 2004 p. 191
+
+# key_id: takaoka2004_daviesellum_male
+# Takaoka & Choochote (2004), p. 191; Keys to the species of the subgenus Daviesellum: Adult males
+1a | Ventral plate much longer than wide when viewed ventrally | | Simulium courtneyi | | Takaoka & Choochote 2004 p. 191
+1b | Ventral plate much shorter than wide when viewed ventrally | | Simulium pahangense | | Takaoka & Choochote 2004 p. 191
+
+# key_id: takaoka2004_daviesellum_pupa
+# Takaoka & Choochote (2004), p. 191; Keys to the species of the subgenus Daviesellum: Pupae
+1a | Frons densely covered with tubercles | | Simulium courtneyi | | Takaoka & Choochote 2004 p. 191
+1b | Frons mostly bare (though narrow portion near the lower margin tuberculate) | | Simulium pahangense | | Takaoka & Choochote 2004 p. 191
+
+# key_id: takaoka2004_daviesellum_larva
+# Takaoka & Choochote (2004), p. 191; Keys to the species of the subgenus Daviesellum: Mature larvae
+1a | Postgenal cleft long, but its apex not reaching the posterior margin of hypostomium | | Simulium courtneyi | | Takaoka & Choochote 2004 p. 191
+1b | Postgenal cleft long, its apex reaching the posterior margin of hypostomium | | Simulium pahangense | | Takaoka & Choochote 2004 p. 191
+
+# key_id: takaoka2004_gomphostilbia_female
+# Takaoka & Choochote (2004), p. 191; Keys to the species of the subgenus Gomphostilbia: Adult females
+# Footnote: *The female of S. gombakense, which is unknown, is not included.
+1a | Antenna composed of 10 segments | 2 | | |
+1b | Antenna composed of 11 segments | 3 | | |
+2a | Tergite 5 shiny | | Simulium burtoni | | Takaoka & Choochote 2004 p. 191. See Note 2 (p. 190): Thai identification tentative; reexamination of Malaysian type showed tergite 5 is shiny (wrongly described as dull in Takaoka & Davies 1995).
+2b | Tergite 5 not shiny | | Simulium chumpornense | | Takaoka & Choochote 2004 p. 191
+3a | Mid and hind femora almost yellow except apical cap dark | | Simulium dentistylum | | Takaoka & Choochote 2004 p. 191
+3b | Mid and hind femora alomst dark except base pale | 4 | | | Takaoka & Choochote 2004 p. 191. "alomst" as printed for "almost".
+4a | Hind tibia mostly dark | | Simulium siamense | | Takaoka & Choochote 2004 p. 191
+4b | Hind tibia whitish yellow or dark yellow on basal 2/5 or more | 5 | | |
+5a | Hind tibia with a dark subbasal spot | 6 | | |
+5b | Hind tibia without such a dark subbasal spot | 8 | | |
+6a | Sensory vesicle of medium size, 0.3 times as long as 3rd maxillary palpal segment | | Simulium angulistylum | | Takaoka & Choochote 2004 p. 191
+6b | Sensory vesicle enlarged, 0.5 or 0.6 times as long as 3rd maxillary palpal segment | 7 | | |
+7a | Arms of genital fork with a short projection directed anteriorly | | Simulium decuplum | | Takaoka & Choochote 2004 p. 191
+7b | Arms of genital fork without such a projection | | Simulium parahiyangum | | Takaoka & Choochote 2004 p. 191
+8a | Hind tibia whitish yellow on basal 2/3; sensory vesicle of moderate size, 0.3 times as long as 3rd maxillary palpal segment | | Simulium asakoae | | Takaoka & Choochote 2004 p. 191
+8b | Hind tibia whitish yellow on basal 2/5 or 1/2; sensory vesicle enlarged, 0.57 or 0.68 times as long as 3rd maxillary palpal segment | 9 | | |
+9a | Frons-head ratio 1.0 : 4.8: sensory vesicle enlarged, 0.57 times as long as 3rd maxillary palpal segment | | Simulium inthanonense | | Takaoka & Choochote 2004 p. 191. Colon after "4.8" as printed.
+9b | Frons-head ratio 1.0 : 5.7; sensory vesicle enlarged, 0.68 times as long as 3rd maxillary palpal segment | | Simulium sheilae | | Takaoka & Choochote 2004 p. 191
+
+# key_id: takaoka2004_gomphostilbia_male
+# Takaoka & Choochote (2004), pp. 191-192; Keys to the species of the subgenus Gomphostilbia: Adult males
+1a | Antenna composed of 10 segments | 2 | | |
+1b | Antenna composed of 11 segments | 3 | | |
+2a | Ventral plate produced ventrally | | Simulium burtoni | | Takaoka & Choochote 2004 p. 191
+2b | Ventral plate nearly flat | | Simulium chumpornense | | Takaoka & Choochote 2004 p. 191
+3a | Hind basitarsus enlarged | 4 | | |
+3b | Hind basitarsus slender, much thinner than hind tibia | 6 | | |
+4a | Eye with 16 horizontal rows of large facets | | Simulium inthanonense | | Takaoka & Choochote 2004 p. 191
+4b | Eye with 13 horizontal rows of large facets | 5 | | |
+5a | Hind tibia mostly medium brown to brownish black with basal 1/3 or a little less somewhat pale | | Simulium sheilae | | Takaoka & Choochote 2004 p. 191
+5b | Hind tibia whitish on a little less than basal 1/2 and brownish black on the rest | | Simulium asakoae | | Takaoka & Choochote 2004 p. 191
+6a | Mid and hind femora yellow except apical cap dark | | Simulium dentistylum | | Takaoka & Choochote 2004 p. 191
+6b | Mid and hind femora almost dark except base pale | 7 | | |
+7a | Hind tibia almost dark except base pale | 8 | | |
+7b | Hind tibia whitish on basal 1/2 or more | 10 | | |
+8a | Abdominal segments 2, 5, 6 and 7 each with a dorsolateral pair of shiny whitish-pruinose patches | | Simulium siamense | | Takaoka & Choochote 2004 pp. 191-192
+8b | Abdominal segments 2, 6 and 7 each with a dorsolateral pair of shiny whitish-pruinose patches | 9 | | |
+9a | Upper eye with 12 or 13 vertical columns and 15 horizontal rows of large facets | | Simulium decuplum | | Takaoka & Choochote 2004 p. 192
+9b | Upper eye with 17 vertical columns and 15 horizontal rows of large facets | | Simulium parahiyangum | | Takaoka & Choochote 2004 p. 192
+10a | Hind tibia whitish on basal 2/3, with a dark subbasal spot | | Simulium angulistylum | | Takaoka & Choochote 2004 p. 192
+10b | Hind tibia whitish yellow on basal 1/2, without such a dark subbasal spot | | Simulium gombakense | | Takaoka & Choochote 2004 p. 192
+
+# key_id: takaoka2004_gomphostilbia_pupa
+# Takaoka & Choochote (2004), p. 192; Keys to the species of the subgenus Gomphostilbia: Pupae
+1a | Gill of much inflated structure with 2 triplet groups of finger-like projections and 8 slender filaments | | Simulium gombakense | | Takaoka & Choochote 2004 p. 192
+1b | Gill with 8 or 10 filaments | 2 | | |
+2a | Gill with 10 filaments | | Simulium decuplum | | Takaoka & Choochote 2004 p. 192
+2b | Gill with 8 filaments | 3 | | |
+3a | Gill filaments all shorter than pupal body (shorter than 1.6 mm), short-stalked | 4 | | |
+3b | Gill filaments subequal to, or longer than, pupal body (longer than 1.9 mm), moderately-stalked | 7 | | |
+4a | Antennal sheath smooth | 5 | | |
+4b | Antennal sheath with tubercles | 6 | | |
+5a | Gill filaments arranged in 2 groups, i.e. 1 dorsal (4 individual and 2 paired filaments) and 1 ventral (2 paired filaments) | | Simulium chumpornense | | Takaoka & Choochote 2004 p. 192
+5b | Gill filaments arranged in 3 groups (3+3+2 filaments from dorsal to ventral) | | Simulium angulistylum | | Takaoka & Choochote 2004 p. 192
+6a | Antennal sheath with marked ridges each corresponding to flagellar segments 1-9, each ridge covered with several tubercles; gill filaments arranged in 3 groups (3+3+2 filaments from dorsal to ventral) | | Simulium parahiyangum | | Takaoka & Choochote 2004 p. 192
+6b | Antennal sheath with less marked ridges corresponding to flagellar segments 1-9, each ridge covered with a few tubercles; gill filaments arranged in 4 groups (2+1+3+2 filaments from dorsal to ventral) | | Simulium dentistylum | | Takaoka & Choochote 2004 p. 192
+7a | Dorsal and middle triplet groups and ventral pair group arising basally at the same level | | Simulium siamense | | Takaoka & Choochote 2004 p. 192
+7b | Dorsal and middle triplet groups sharing a short stalk, which arises, with a stalk of ventral pair group, from short common basal stalk | 8 | | |
+8a | Dorsal and middle triplet groups consisting of 1 individual filament and 2 paired filaments with a very long stalk | | Simulium burtoni | | Takaoka & Choochote 2004 p. 192
+8b | Dorsal and middle triplet groups consisting of 1 individual filament and 2 paired filaments with a short or medium-long stalk | 9 | | |
+9a | Cocoon with a distinct anterodorsal projection | | Simulium inthanonense | | Takaoka & Choochote 2004 p. 192
+9b | Cocoon with an anterodorsal bulge | 10 | | |
+10a | Terminal hooks weakly undulate on outer margin | | Simulium sheilae | | Takaoka & Choochote 2004 p. 192
+10b | Terminal hooks weakly serrate on outer margin | | Simulium asakoae | | Takaoka & Choochote 2004 p. 192
+
+# key_id: takaoka2004_gomphostilbia_larva
+# Takaoka & Choochote (2004), pp. 192-193; Keys to the species of the subgenus Gomphostilbia: Mature larvae
+1a | Thoracic segment 3 and abdominal segments 1-5 each with 1 or 2 pairs of dorsal and/or dorsolateral protuberances | 2 | | |
+1b | Thoracic segment 3 and abdominal segments 1-5 without any dorsal or dorsolateral protuberance | 3 | | |
+2a | Postgenal cleft very long, its apex reaching the posterior margin of hypostomium; thorax and abdomen densely covered with dark spines of various sizes | | Simulium parahiyangum | | Takaoka & Choochote 2004 p. 192
+2b | Postgenal cleft long, but its apex not reaching the posterior margin of hypostomium; thorax and abdomen sparsely or moderately covered with minute setae | | Simulium chumpornense | | Takaoka & Choochote 2004 p. 192
+3a | Postgenal cleft very long, its apex nearly or completely reaching the posterior margin of hypostomium | 4 | | |
+3b | Postgenal cleft otherwise | 5 | | |
+4a | Abdomen markedly constricted between segments 4 and 5 | | Simulium dentistylum | | Takaoka & Choochote 2004 p. 192
+4b | Abdomen not constricted between segments 4 and 5 | | Simulium sheilae | | Takaoka & Choochote 2004 p. 192
+5a | Postgenal cleft short, much shorter than postgenal bridge | | Simulium inthanonense | | Takaoka & Choochote 2004 p. 192
+5b | Postgenal cleft longer than postgenal bridge | 6 | | |
+6a | Abdomen almost bare except the last segment; pharate pupal gill of inflated structure | | Simulium gombakense | | Takaoka & Choochote 2004 p. 192
+6b | Abdomen moderately or densely covered with simple or branched dark spinous setae or spinules dorsally on segments 5-8; pharate pupal gill filamentous | 7 | | |
+7a | Abdomen moderately covered with simple minute dark setae dorsally on segments 5-8 | | Simulium asakoae | | Takaoka & Choochote 2004 p. 192
+7b | Abdomen moderately or densely covered with branched dark spinous setae or spinules dorsally on segments 5-8 | 8 | | |
+8a | Thoracic cuticle moderately covered with minute dark spinules with 7-11 branches dorsally; pharate pupal gill with 10 filaments | | Simulium decuplum | | Takaoka & Choochote 2004 p. 192
+8b | Thoracic cuticle almost bare dorsally; pharate pupal gill with 8 filaments | 9 | | |
+9a | Minute dark spinous setae on abdominal segments 5-8 somewhat flat and stout basally, with short branches apically | | Simulium siamense | | Takaoka & Choochote 2004 p. 192
+9b | Minute dark spinous setae on abdominal segments 5-8 slender and hair-like basally, with long branches | 10 | | | Takaoka & Choochote 2004 p. 193
+10a | Minute dark spinous setae on abdominal segments 5-8 with 0-5 branches | | Simulium burtoni | | Takaoka & Choochote 2004 p. 193
+10b | Minute dark spinous setae on abdominal segments 5-8 with 5-12 (mostly 8-10) branches | | Simulium angulistylum | | Takaoka & Choochote 2004 p. 193
+
+# key_id: takaoka2004_nevermannia_female
+# Takaoka & Choochote (2004), p. 193; Keys to the species of the subgenus Nevermannia: Adult females
+1a | Antenna yellow with at least 1st flagellar segment darkened; hind tibia yellow on basal 1/2, dark on apical 1/2, and with subbasal dark ring | | Simulium aureohirtum | | Takaoka & Choochote 2004 p. 193
+1b | Antenna almost all darkened or mostly so except a few basal segments pale; hind tibia nearly all brown | 2 | | |
+2a | Scutum reddish brown in ground color, with 3 dark longitudinal vittae | | Simulium feuerborni | | Takaoka & Choochote 2004 p. 193
+2b | Scutum brownish black in ground color, without any longitudinal vitta | | Simulium caudisclerum | | Takaoka & Choochote 2004 p. 193
+
+# key_id: takaoka2004_nevermannia_male
+# Takaoka & Choochote (2004), p. 193; Keys to the species of the subgenus Nevermannia: Adult males
+1a | Antenna yellow or yellowish brown with 1st flagellar segment darkened; hind basitarsus slender, parallel-sided, much narrower than hind tibia | | Simulium aureohirtum | | Takaoka & Choochote 2004 p. 193
+1b | Antenna almost all darkened; hind basitarsus inflated, its greatest width nearly as wide as that of hind tibia | 2 | | |
+2a | Scutum whitish pruinose with 3 dark longitudinal vittae at certain angle of light; paramere with 3 or 4 parameral hooks | | Simulium feuerborni | | Takaoka & Choochote 2004 p. 193
+2b | Scutum whitish pruinose without any longitudinal vitta; paramere with a single parameral hook | | Simulium caudisclerum | | Takaoka & Choochote 2004 p. 193
+
+# key_id: takaoka2004_nevermannia_pupa
+# Takaoka & Choochote (2004), p. 193; Keys to the species of the subgenus Nevermannia: Pupae
+1a | Gill with 4 filaments | | Simulium caudisclerum | | Takaoka & Choochote 2004 p. 193
+1b | Gill with 6 filaments | 2 | | |
+2a | All filaments extending forwards close together, and 2 ventral filaments with rather long stalk | | Simulium feuerborni | | Takaoka & Choochote 2004 p. 193
+2b | All filaments diverging widely from the base, and 2 ventral paired filaments with short stalk | | Simulium aureohirtum | | Takaoka & Choochote 2004 p. 193
+
+# key_id: takaoka2004_nevermannia_larva
+# Takaoka & Choochote (2004), p. 193; Keys to the species of the subgenus Nevermannia: Mature larvae
+1a | Abdomen with distinct reddish-brown markings dorsally | | Simulium feuerborni | | Takaoka & Choochote 2004 p. 193
+1b | Abdomen without any distinct colored marking dorsally | 2 | | |
+2a | Abdomen with accessory sclerite ventrolaterally on each side of the last segment; mandibular serrations composed of 1 well-developed and 1 small teeth and with supernumerary serrations | | Simulium caudisclerum | | Takaoka & Choochote 2004 p. 193
+2b | Abdomen without any accessory sclerite; mandibular serrations composed of 2 well-developed teeth and without supernumerary serrations | | Simulium aureohirtum | | Takaoka & Choochote 2004 p. 193
+
+# key_id: takaoka2004_simulium_female
+# Takaoka & Choochote (2004), pp. 193-194; Keys to the species of the subgenus Simulium s. str.: Adult females
+# Footnote: *The females of S. baimaii and S. thailandicum, which are unknown, are not included.
+1a | Claw with a small subbasal tooth | 2 | | |
+1b | Claw without any tooth | 6 | | |
+2a | Basal section of radial vein fully haired; fore basitarsus with thick dorsal hair crest | | Simulium nigrogilvum | | Takaoka & Choochote 2004 p. 193
+2b | Basal section of radial vein bare; fore basitarsus with moderate dorsal hair crest | 3 | | |
+3a | Mid and hind femora mostly yellowish | | Simulium chamlongi | | Takaoka & Choochote 2004 p. 193
+3b | Mid and hind femora mostly brownish | 4 | | |
+4a | Scutum densely covered with yellow hairs | | Simulium barnesi | | Takaoka & Choochote 2004 p. 193
+4b | Scutum moderately covered with brassy hairs | 5 | | |
+5a | Antenna brownish black with scape, pedicel and base of 1st flagellar segment yellow; abdominal segment 7 with branched hairs medially on ventral surface | | Simulium siripoomense | | Takaoka & Choochote 2004 p. 193
+5b | Antenna yellow or tawny with 2 apical segments blackish; abdominal segment 7 with simple hairs on ventral surface | | Simulium nobile | | Takaoka & Choochote 2004 p. 193
+6a | Scutum with distinct longitudinal vittae | 7 | | |
+6b | Scutum without any vitta | 17 | | |
+7a | Fore tibia medium to dark brown, without white area on outer surface; hind tibia dark brown to brownish black with base yellow; inner margin of ovipositor valve with ventrally produced round flap | | Simulium chiangmaiense; Simulium nakhonense; Simulium quinquestriatum | | Takaoka & Choochote 2004 p. 193
+7b | Fore tibia with white shiny area on outer surface; hind tibia whitish or yellowish on basal 2/3 or more and dark brown to brownish black on the rest; inner margin of ovipositor valve without such a flap | 8 | | |
+8a | Basal section of radial vein fully haired | 9 | | |
+8b | Basal section of radial vein bare | 11 | | |
+9a | Hind basitarsus whitish on basal 3/5 and dark brown on the rest; ovipositor valve rounded, covered with short setae, and with elongate internal projection | | Simulium grossifilum | | Takaoka & Choochote 2004 p. 193
+9b | Hind basitarsus whitish on basal 1/2 and dark brown on the rest; ovipositor valve triangular, covered with long stout hairs, and without such an internal projection | 10 | | |
+10a | Cibarium with a round short medial projection along posterior margin | | Simulium choochotei | | Takaoka & Choochote 2004 p. 193
+10b | Cibarium with a narrow long medial projection along posterior margin | | Simulium digrammicum | | Takaoka & Choochote 2004 p. 194
+11a | Mid tibia white on basal 2/3 or 3/4 and dark brown or brownish black on the rest; cibarium with a tuberculate medial projection | 12 | | |
+11b | Mid tibia white on basal 4/5 or 5/6 and light to dark brown on the rest; cibarium with a smooth medial projection | 13 | | |
+12a | Cibarium with tubercles near the base of medial projection | | Simulium suchariti | | Takaoka & Choochote 2004 p. 194
+12b | Cibarium bare near the base of medial projection | | Simulium maenoi | | Takaoka & Choochote 2004 p. 194
+13a | All femora almost yellow; three spermathecae present | | Simulium triglobus | | Takaoka & Choochote 2004 p. 194
+13b | At least mid and hind femora mostly dark; one spermatheca present | 14 | | |
+14a | Hind basitarsus whitish yellow on a little more than basal 1/2 and dark brown on the rest | | Simulium fenestratum | | Takaoka & Choochote 2004 p. 194
+14b | Hind basitarsus whitish yellow on basal 3/5 and dark brown on the rest | 15 | | |
+15a | Sternite 8 with 10-16 long hairs on each side | | Simulium malayense | | Takaoka & Choochote 2004 p. 194
+15b | Sternite 8 with 23-34 long hairs on each side | 16 | | |
+16a | Mid femur blackish brown with basal 1/5 or 1/4 yellow | | Simulium chaliowae | | Takaoka & Choochote 2004 p. 194
+16b | Mid femur almost entirely dark brown | | Simulium chainarongi | | Takaoka & Choochote 2004 p. 194
+17a | Mid tarsal segments 2 and 3 entirely yellow | | Simulium nodosum | | Takaoka & Choochote 2004 p. 194
+17b | Mid tarsal segments 2 and 3 light brown to brownish black | 18 | | |
+18a | Mid femur entirely yellow | | Simulium rudnicki | | Takaoka & Choochote 2004 p. 194
+18b | Mid femur almost dark brown | 19 | | |
+19a | Abdominal segment 7 with a pair of clustered hairs ventrally | 20 | | |
+19b | Abdominal segment 7 without such a pair of clustered hairs ventrally | 22 | | |
+20a | A pair of clustered hairs on abdominal segment 7 short, subequal in length to those on the surrounding area | | Simulium setsukoae | | Takaoka & Choochote 2004 p. 194
+20b | A pair of clustered hairs on abdominal segment 7 much longer than those on the surrounding area | 21 | | |
+21a | Mid tibia almost light brown with base somewhat yellow | | Simulium weji | | Takaoka & Choochote 2004 p. 194
+21b | Mid tibia white on basal 1/2 or more and medium brown on the rest | | Simulium rufibasis | | Takaoka & Choochote 2004 p. 194
+22a | Hind basitarsus white on a little more than basal 1/2 and brownish black on the rest; scutum covered with yellowish hairs as well as dark ones | | Simulium yongi | | Takaoka & Choochote 2004 p. 194
+22b | Hind basitarsus white on basal 3/5 or more and brownish black on the rest; scutum covered with dark brown hairs only | 23 | | |
+23a | Sensory vesicle enlarged, 0.7 times as long as the 3rd maxillary palpal segment | | Simulium tani | | Takaoka & Choochote 2004 p. 194
+23b | Sensory vesicle medium-sized, 0.3 times as long as the 3rd maxillary palpal segment | | Simulium brevipar | | Takaoka & Choochote 2004 p. 194
+
+# key_id: takaoka2004_simulium_male
+# Takaoka & Choochote (2004), pp. 194-195; Keys to the species of the subgenus Simulium s. str.: Adult males
+# Footnote: *The males of S. baimaii, S. barnesi and S. suchariti, which are unknown, are not included. (S. triglobus male is also unknown and omitted.)
+1a | Basal portion of radial vein fully haired | 2 | | |
+1b | Basal portion of radial vein bare | 4 | | |
+2a | Abdomen with a pair of shiny whitish-grey pruinose spots dorsally or dorsolaterally on segments 2, 5, 6 and 7; width of style nearly the same from base to apical tip when viewed ventrolaterally | | Simulium choochotei | | Takaoka & Choochote 2004 p. 194
+2b | Abdomen with a pair of shiny white pruinose spots dorsally or dorsolaterally on segments 2, 6 and 7; width of style becoming much narrower apically | 3 | | |
+3a | Fore basitarsus with thick dorsal hair crest; hind basitarsus nearly parallel-sided; ventral plate nearly quadrate, parallel-sided when viewed ventrally | | Simulium nigrogilvum | | Takaoka & Choochote 2004 p. 194
+3b | Fore basitarsus with moderate dorsal hair crest; hind basitarsus spindle-shaped; ventral plate gradually narrowed posteriorly when viewed ventrally | | Simulium digrammicum | | Takaoka & Choochote 2004 p. 194
+4a | Scutum broadly silvery pruinose with transverse, inverted-V-shaped, black band | 5 | | |
+4b | Scutum otherwise | 6 | | |
+5a | Ventral plate with a narrow body parallel-sided when viewed ventrally | | Simulium nobile | | Takaoka & Choochote 2004 p. 194
+5b | Ventral plate with a wide body broadened medially when viewed ventrally | | Simulium nodosum | | Takaoka & Choochote 2004 p. 194
+6a | Mid femur and tibia almost yellow | | Simulium rudnicki | | Takaoka & Choochote 2004 p. 194
+6b | Mid femur and tibia otherwise | 7 | | |
+7a | Mid tibia mostly dark (including posterior surface) | 8 | | |
+7b | Mid tibia whitish or yellowish (at least on posterior surface) on basal 1/2 or more and dark brown on the rest | 16 | | |
+8a | Fore tibia medium brown, with white shiny area on outer surface | 9 | | |
+8b | Fore tibia medium to dark brown, without white area on outer surface | 15 | | |
+9a | Hind basitarsus white or whitish yellow on basal 1/2 or less and dark brown to brownish black on the rest | 10 | | |
+9b | Hind basitarsus white or whitish yellow on more than basal 1/2 and light to dark brown on the rest | 13 | | |
+10a | Hind basitarsus somewhat enlarged, about 5.0 times as long as wide and much narrower than hind tibia | | Simulium chamlongi | | Takaoka & Choochote 2004 p. 194
+10b | Hind basitarsus much enlarged, 3.2-3.5 times as long as wide, and subequal to, or a little wider than, the greatest width of hind tibia | 11 | | |
+11a | Upper eye with 20 vertical columns of large facets | | Simulium setsukoae | | Takaoka & Choochote 2004 p. 195
+11b | Upper eye with 15-17 vertical columns of large facets | 12 | | |
+12a | Hind basitarsus whitish yellow on basal 1/3 and brownish black on the rest | | Simulium rufibasis | | Takaoka & Choochote 2004 p. 195
+12b | Hind basitarsus whitish yellow on basal 1/2 or a little less and brownish black on the rest | | Simulium tani | | Takaoka & Choochote 2004 p. 195
+13a | Hind basitarsus, narrow (similar to that of female), parallel-sided, white with apical 1/6 light brown | | Simulium siripoomense | | Takaoka & Choochote 2004 p. 195
+13b | Hind basitarsus enlarged, wedge-shaped, whitish yellow on basal 3/5 or a little less and dark brown on the rest | 14 | | |
+14a | Abdominal segments 2, 5, 6 and 7 each with a pair of silvery iridescent spots dorsolaterally | | Simulium weji | | Takaoka & Choochote 2004 p. 195
+14b | Abdominal segments 2, 6 and 7 each with a pair of silvery iridescent spots dorsolaterally | | Simulium brevipar | | Takaoka & Choochote 2004 p. 195
+15a | Hind basitarsus whitish yellow on basal 1/2 or a little more or less and brownish black on the rest | | Simulium quinquestriatum | | Takaoka & Choochote 2004 p. 195
+15b | Hind basitarsus whitish yellow on basal 3/5 and brownish black on apical 2/5 | | Simulium chiangmaiense; Simulium nakhonense; Simulium thailandicum | | Takaoka & Choochote 2004 p. 195
+16a | Hind basitarsus whitish on basal 1/2 or a little less and brownish black on the rest; body of ventral plate wider than long | 17 | | |
+16b | Hind basitarsus entirely light to dark brown, or so with basal 2/5 whitish yellow or dark yellow; body of ventral plate longer than wide | 18 | | |
+17a | Body of ventral plate about 1.8 times as wide as long, and much shorter than arms | | Simulium yongi | | Takaoka & Choochote 2004 p. 195
+17b | Body of ventral plate about 2.3 times as wide as long, and much longer than arms | | Simulium grossifilum | | Takaoka & Choochote 2004 p. 195
+18a | Hind basitarsus entirely light to dark brown | 19 | | |
+18b | Hind basitarsus brownish black with basal 2/5 whitish yellow or dark yellow | 20 | | |
+19a | Ventral plate subquadrate when viewed ventrally, and with distinct teeth on its posterior surface | | Simulium chaliowae | | Takaoka & Choochote 2004 p. 195
+19b | Ventral plate gradually narrowed posteriorly when viewed ventrally, and without any tooth on its posterior surface | | Simulium maenoi | | Takaoka & Choochote 2004 p. 195
+20a | Upper eye with 20 vertical columns and 20 horizontal rows of large facets | | Simulium chainarongi | | Takaoka & Choochote 2004 p. 195
+20b | Upper eye with 15-17 vertical columns and 16 or 17 horizontal rows of large facets | 21 | | |
+21a | Upper eye with 15 vertical columns and 16 horizontal rows of large facets; ventral plate with 2 vertical rows of teeth nearly parallel-sided on its posterior surface | | Simulium malayense | | Takaoka & Choochote 2004 p. 195
+21b | Upper eye with 17 vertical columns and 17 horizontal rows of large facets; ventral plate with teeth irregularly situated on its posterior surface | | Simulium fenestratum | | Takaoka & Choochote 2004 p. 195
+
+# key_id: takaoka2004_simulium_pupa
+# Takaoka & Choochote (2004), pp. 195-196; Keys to the species of the subgenus Simulium s. str.: Pupae
+# Note: The pupa of S. barnesi was unknown and is not included.
+1a | Gill of inflated form | 2 | | |
+1b | Gill filamentous | 4 | | |
+2a | Gill with 2 filaments arising from long inflated trunk | | Simulium baimaii | | Takaoka & Choochote 2004 p. 195
+2b | Gill with 3 or 6 inflated tubes with rounded apex | 3 | | |
+3a | Gill with 3 inflated tubes | | Simulium nodosum | | Takaoka & Choochote 2004 p. 195
+3b | Gill with 6 inflated tubes with minute spines | | Simulium grossifilum | | Takaoka & Choochote 2004 p. 195
+4a | Gill with 6 filaments | 5 | | |
+4b | Gill with 8 or 10 filaments | 19 | | |
+5a | Cocoon simple wall-pocket-shaped | 6 | | |
+5b | Cocoon shoe-shaped or boot-shaped | 16 | | |
+6a | Cocoon with an anterolateral window on each side | 7 | | |
+6b | Cocoon without lateral window | 10 | | |
+7a | Gill filaments subequal in length and thickness to one another | 8 | | |
+7b | Gill filaments decreased in thickness from dorsal to ventral | 9 | | |
+8a | Gill filaments short-stalked; dorsal spine-combs present on abdominal segments 7-9 | | Simulium siripoomense | | Takaoka & Choochote 2004 p. 195
+8b | Gill filaments almost sessile; dorsal spine-combs present only on abdominal segment 8 | | Simulium rudnicki | | Takaoka & Choochote 2004 p. 195
+9a | Cocoon with a small anterolateral window on each side; frons moderately covered with very large tubercles; terminal hooks present | | Simulium maenoi | | Takaoka & Choochote 2004 p. 195
+9b | Cocoon with a moderate anterolateral window on each side; frons densely covered with small and medium-sized tubercles; terminal hooks absent | | Simulium suchariti | | Takaoka & Choochote 2004 p. 195
+10a | Integuments of head and thorax bare (except posterior 1/2 of thorax with minute tubercles) | 11 | | |
+10b | Integuments of head and thorax moderately or densely covered with tubercles | 12 | | |
+11a | Cocoon very thin, transparent, and its anterior margin often not well defined; inner filament of the ventralmost pair narrowed basally; dorsal spine-combs present on abdominal segment 8; terminal hooks absent | | Simulium yongi | | Takaoka & Choochote 2004 p. 195
+11b | Cocoon thickly woven, not transparent, and its anterior margin well defined; inner filament of the ventralmost pair not narrowed basally; dorsal spine-combs present on abdominal segments 7-9; terminal hooks present | | Simulium chamlongi | | Takaoka & Choochote 2004 p. 195
+12a | Terminal hooks present | | Simulium tani | | Takaoka & Choochote 2004 p. 195
+12b | Terminal hooks absent | 13 | | |
+13a | Gill filaments with short-stalked; dorsalmost filament basally directed upward or forward, then curved forward or downward; abdominal segment 7 with spine-combs dorsally | 14 | | | Takaoka & Choochote 2004 pp. 195-196. "with short-stalked" as printed.
+13b | Gill filaments almost sessile; dorsalmost filament basally directed forward or downward; abdominal segment 7 without spine-combs dorsally | 15 | | |
+14a | Two filaments of the dorsal pair subequal in thickness to each other | | Simulium rufibasis | | Takaoka & Choochote 2004 p. 196
+14b | Dorsalmost filament of the dorsal pair much thicker than the counter filament | | Simulium setsukoae | | Takaoka & Choochote 2004 p. 196
+15a | Thoracic integument with pit-like organ at base of gill | | Simulium brevipar | | Takaoka & Choochote 2004 p. 196
+15b | Thoracic integument without such organ at base of gill | | Simulium weji | | Takaoka & Choochote 2004 p. 196
+16a | Cocoon loosely woven, with many small open spaces in webs | | Simulium choochotei | | Takaoka & Choochote 2004 p. 196
+16b | Cocoon tightly woven | 17 | | |
+17a | Cocoon with an anterolateral flap and a small anterolateral window on each side; terminal hooks present | | Simulium digrammicum | | Takaoka & Choochote 2004 p. 196
+17b | Cocoon without such flap and window; terminal hooks absent | 18 | | |
+18a | Abdominal segment 8 with spine-combs dorsally | | Simulium nobile | | Takaoka & Choochote 2004 p. 196
+18b | Abdominal segment 8 without any spine-comb dorsally | | Simulium nigrogilvum | | Takaoka & Choochote 2004 p. 196
+19a | Gill with 8 filaments | 20 | | |
+19b | Gill with 10 filaments | 25 | | |
+20a | Cocoon wall-pocket-shaped | 21 | | |
+20b | Cocoon shoe-shaped | 22 | | |
+21a | Cocoon with an anterolateral window on each side | | Simulium fenestratum | | Takaoka & Choochote 2004 p. 196
+21b | Cocoon without any window | | Simulium malayense | | Takaoka & Choochote 2004 p. 196
+22a | Cocoon roughly woven anteriorly, leaving some large open spaces in webs of the anterior collar and many small open spaces near anterior margin | 23 | | |
+22b | Cocoon without open spaces in the webs | 24 | | |
+23a | Gill filaments subequal in thickness to one another | | Simulium triglobus | | Takaoka & Choochote 2004 p. 196
+23b | Two ventralmost paired filaments much thinner than the others | | Simulium chiangmaiense | | Takaoka & Choochote 2004 p. 196
+24a | Basal portion of the dorsalmost filament about 1.4 times as thick as the ventralmost one | | Simulium chaliowae | | Takaoka & Choochote 2004 p. 196
+24b | Basal portion of the dorsalmost filament about twice as thick as the ventralmost one | | Simulium chainarongi | | Takaoka & Choochote 2004 p. 196
+25a | Gill filaments arranged in 2+3+3+2 filaments from dorsal to ventral; all filaments subequal in thickness to one another | | Simulium quinquestriatum | | Takaoka & Choochote 2004 p. 196
+25b | Gill filaments arranged in 2+2+2+2+2 filaments; 4 or 5 dorsal filaments slightly to markedly thicker than the others | 26 | | |
+26a | Head integument with round tubercles | | Simulium nakhonense | | Takaoka & Choochote 2004 p. 196
+26b | Head integument with angular tubercles | | Simulium thailandicum | | Takaoka & Choochote 2004 p. 196
+
+# key_id: takaoka2004_simulium_larva
+# Takaoka & Choochote (2004), pp. 196-197; Keys to the species of the subgenus Simulium s. str.: Mature larvae
+# Footnote: *The mature larvae of S. barnesi, S. chaliowae and S. thailandicum, which are unknown, are not included.
+1a | Last abdominal segment with a distinct accessary sclerite ventrally | | Simulium nigrogilvum | | Takaoka & Choochote 2004 p. 196. "accessary" as printed.
+1b | Last abdominal segment without any accessary sclerite | 2 | | | Takaoka & Choochote 2004 p. 196. "accessary" as printed.
+2a | Abdominal segments 1-5 (or up to 8) each with 1 or more pairs of protuberances dorsally or dorsolateraly | 3 | | | Takaoka & Choochote 2004 p. 196. "dorsolateraly" as printed.
+2b | Abdominal segments lacking protuberances | 9 | | |
+3a | Abdominal segments 1-8 each with 1-6 pairs of protuberances dorsally and dorsolatelly | | Simulium siripoomense | | Takaoka & Choochote 2004 p. 196. "dorsolatelly" as printed.
+3b | Abdominal segments 1-5 (or up to 8) each with a pair of protuberances dorsally or dorsolaterally | 4 | | |
+4a | Postgenal cleft very long, its apex reaching the posterior border of hypostomium | 5 | | |
+4b | Postgenal cleft very long, but its apex not reaching the posterior border of hypostomium | 6 | | |
+5a | Pharate pupal gill with 6 filaments | | Simulium nobile | | Takaoka & Choochote 2004 p. 196
+5b | Pharate pupal gill with 3 filaments | | Simulium nodosum | | Takaoka & Choochote 2004 p. 196
+6a | Pharate pupal gill with 8 filaments | 7 | | |
+6b | Pharate pupal gill with 10 filaments | 8 | | |
+7a | Abdominal segments 1-6 each with a pair of protuberances dorsally | | Simulium chainarongi | | Takaoka & Choochote 2004 p. 196
+7b | Abdominal segments 1-8 each with a pair of protuberances dorsally | | Simulium chiangmaiense | | Takaoka & Choochote 2004 p. 196
+8a | Pharate pupal gill with 10 filaments arranged in 2+3+3+2 filaments | | Simulium quinquestriatum | | Takaoka & Choochote 2004 p. 196
+8b | Pharate pupal gill with 10 filaments arranged in 2+2+2+2+2 filaments | | Simulium nakhonense | | Takaoka & Choochote 2004 p. 196
+9a | Postgenal cleft moderately widened medially, its greatest width much larger than the width at base | 10 | | |
+9b | Postgenal cleft not widened or slightly so medially, its greatest width subequal to, or slightly larger than, the width at base | 11 | | |
+10a | Pharate pupal gill with 6 filaments | | Simulium chamlongi | | Takaoka & Choochote 2004 p. 196
+10b | Pharate pupal gill with 8 filaments | | Simulium fenestratum; Simulium malayense | | Takaoka & Choochote 2004 p. 196. CORRECTION: printed as "fensestratum and malayense".
+11a | Abdomen with its greatest width on segment 8 | 12 | | |
+11b | Abdomen with its greatest width on segment 6 or 7 | 14 | | |
+12a | Cephalic apotome mostly pale yellow | | Simulium yongi | | Takaoka & Choochote 2004 p. 196
+12b | Cephalic apotome mostly light to medium brown | 13 | | |
+13a | Posterior circlet with 144-160 rows of hooklets | | Simulium rudnicki | | Takaoka & Choochote 2004 p. 196
+13b | Posterior circlet with ca. 210 rows of hooklets | | Simulium choochotei | | Takaoka & Choochote 2004 p. 196
+14a | Body longer than 7.0 mm | | Simulium suchariti | | Takaoka & Choochote 2004 p. 196
+14b | Body shorter than 7.0 mm | 15 | | |
+15a | Postgenal cleft widely rounded apically | 16 | | |
+15b | Postgenal cleft nearly pointed apically | 19 | | |
+16a | Pharate pupal gill with 2 filaments | | Simulium baimaii | | Takaoka & Choochote 2004 p. 197
+16b | Pharate pupal gill with 6 or 8 filaments | 17 | | |
+17a | Pharate pupal gill with 8 filaments | | Simulium triglobus | | Takaoka & Choochote 2004 p. 197
+17b | Pharate pupal gill with 6 filaments | 18 | | |
+18a | Body length 5.9-6.4 mm; elongate spot on each side of postgenal cleft positive; each lobe of rectal organ with 8-12 finger-like secondary lobules | | Simulium maenoi | | Takaoka & Choochote 2004 p. 197
+18b | Body length 5.0-5.5 mm; elongate spot on each side of postgenal cleft negative; each lobe of rectal organ with 14-18 finger-like secondary lobules | | Simulium digrammicum | | Takaoka & Choochote 2004 p. 197
+19a | Postgenal cleft of medium size, nearly as long as wide; pharate pupal gill with 6 inflated tubular filaments | | Simulium grossifilum | | Takaoka & Choochote 2004 p. 197
+19b | Postgenal cleft long, much longer than wide; pharate pupal gill with 6 thread-like filaments | 20 | | |
+20a | Cephalic apotome yellow, with dark area medially just in front of posterior margin | 21 | | |
+20b | Cephalic apotome pale yellow to pale brown, without dark area medially just in front of posterior margin | 22 | | |
+21a | Body color reddish brown; dorsal pair of pharate pupal gill filaments subequal in thickness to each other | | Simulium rufibasis | | Takaoka & Choochote 2004 p. 197
+21b | Body color dark grey to greyish black; one of dorsal pair of pharate pupal gill filaments much thicker than the counter filament | | Simulium setsukoae | | Takaoka & Choochote 2004 p. 197
+22a | Each lobe of rectal organ with 14-16 finger-like secondary lobules; posterior circlet with ca. 86 rows of hooklets with up to 17 hooklets per row | | Simulium weji | | Takaoka & Choochote 2004 p. 197
+22b | Each lobe of rectal organ with 7-12 finger-like secondary lobules; posterior circlet with 70-74 rows of hooklets with up to 12 or 14 hooklets per row | 23 | | |
+23a | Body color reddish brown | | Simulium tani | | Takaoka & Choochote 2004 p. 197
+23b | Body color dark grey | | Simulium brevipar | | Takaoka & Choochote 2004 p. 197

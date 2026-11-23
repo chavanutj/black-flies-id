@@ -1,0 +1,8 @@
+# key_id: takaoka2019_montisimulium_larva
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 64. Covers: mature larvae of 6 Thai species of Simulium (Montisimulium). Footnote (p. 64): larvae of S. phahompokense and S. surachaii are unknown.
+1a | Antenna with hyaline bands on segment 2. Abdomen with reddish-brown markings dorsally on segments 5-9 | | Simulium angkaense | | Takaoka et al. 2019 p. 64
+1b | Antenna without hyaline bands on segment 2. Abdomen without reddish-brown markings dorsally on segments 5-9 | 2 | | |
+2a | Eyebrow well defined, dark brown | | Simulium merga | |
+2b | Eyebrow not well defined, only somewhat darkened at most near both ends | 3 | | |
+3a | Labral fan with 28-32 primary rays | | Simulium laoleense | |
+3b | Labral fan with 22 primary rays | | Simulium nanense | |

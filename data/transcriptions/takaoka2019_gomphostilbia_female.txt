@@ -1,0 +1,48 @@
+# key_id: takaoka2019_gomphostilbia_female
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 59-60. Covers: adult females of 34 Thai species of Simulium (Gomphostilbia). Footnotes (p. 64): Female of S. curtatum runs to couplet 22 but cannot be further compared with S. inthanonense and S. sheilae due to brevity of the original description; females of S. dentistylum, S. doisaketense, S. otsukai and S. prayongi are unknown.
+1a | Antenna with 7 or 8 flagellomeres | 2 | | | Takaoka et al. 2019 p. 59
+1b | Antenna with 9 flagellomeres | 6 | | |
+2a | Antenna with 7 flagellomeres | | Simulium novemarticulatum | |
+2b | Antenna with 8 flagellomeres | 3 | | |
+3a | Tergite 5 shiny | | Simulium burtoni | |
+3b | Tergite 5 not shiny | 4 | | |
+4a | Mandible with 3-5 teeth on outer margin | | Simulium piroonae | | Takaoka et al. 2019 p. 60
+4b | Mandible without teeth on outer margin | 5 | | |
+5a | Hind tibia yellowish white on basal 2/3 | | Simulium chumpornense | |
+5b | Hind tibia yellowish white on basal 1/2 | | Simulium kuvangkadilokae | |
+6a | Posterior surface of hind tibia mostly darkened except basal tip | 7 | | |
+6b | Posterior surface of hind tibia white or yellow on basal 2/5 or more | 11 | | |
+7a | Sensory vesicle 0.5 or more times length of third palpomere of maxillary palp | 8 | | |
+7b | Sensory vesicle 0.4 or less times length of third palpomere of maxillary palp | 10 | | |
+8a | Fore basitarsus 7.5 times as long as its greatest width | | Simulium chayamaritae | |
+8b | Fore basitarsus 5.3-6.8 times as long as its greatest width | 9 | | |
+9a | Arms of genital fork with short projection directed anteriorly | | Simulium chiangraiense; Simulium huaikaeoense; Simulium khaokhoense; Simulium maeklangense; Simulium pamiangense | | CORRECTION: S. khaokhoense printed as "S. khaokohense".
+9b | Arms of genital fork without such projection | | Simulium ngaoense | |
+10a | Frons : head ratio 1.0 : 4.5 | | Simulium siamense | | Printed as "S. siamense (complex)".
+10b | Frons : head ratio 1.0 : 5.4-6.4 | | Simulium fukudae | |
+11a | Hind tibia with dark subbasal spot | 12 | | |
+11b | Hind tibia without dark subbasal spot | 16 | | |
+12a | Sensory vesicle enlarged, 0.65 times as long as third palpomere of maxillary palp | | Simulium adleri | |
+12b | Sensory vesicle of medium size, 0.3 times as long as third palpomere of maxillary palp | 13 | | |
+13a | Abdominal segment 2 pale | | Simulium cheongi; Simulium datfaense | |
+13b | Abdominal segment 2 darkened | 14 | | |
+14a | Hind tibia whitish yellow on basal 1/2 | | Simulium maleewongae | |
+14b | Hind tibia whitish yellow on basal 2/3 | 15 | | |
+15a | Fore basitarsus 6.5 times as long as its greatest width | | Simulium angulistylum | | Printed as "S. angulistylum (complex)".
+15b | Fore basitarsus 7.3-7.4 times as long as its greatest width | | Simulium isanense | |
+16a | Hair tuft on base of radius whitish | 17 | | |
+16b | Hair tuft on base of radius dark | 22 | | |
+17a | Sensory vesicle 0.3-0.4 times as long as third palpomere of maxillary palp | 18 | | |
+17b | Sensory vesicle 0.6-0.8 times as long as third palpomere of maxillary palp | 21 | | |
+18a | Sensory vesicle 0.4 times as long as third palpomere of maxillary palp | | Simulium thuathienense | |
+18b | Sensory vesicle 0.3 times as long as third palpomere of maxillary palp | 19 | | |
+19a | Hind tibia whitish on basal 1/2 or little more | | Simulium chiangdaoense | |
+19b | Hind tibia whitish on basal 2/3 | 20 | | |
+20a | Plate folded from dorsal margin of cibarium 1/3 times as wide as cibarium | | Simulium udomi | |
+20b | Plate folded from dorsal margin of cibarium 1/2 times as wide as cibarium | | Simulium asakoae | | Printed as "S. asakoae (complex)".
+21a | Fore basitarsus 5.8-6.0 times as long as its greatest width | | Simulium gombakense | |
+21b | Fore basitarsus 6.2-7.2 times as long as its greatest width | | Simulium paiense | | Printed as "S. paiense (complex)".
+22a | Frons : head ratio 1.0 : 5.7. Sensory vesicle enlarged, 0.68 times as long as third palpomere of maxillary palp | | Simulium sheilae | | Printed as "S. sheilae (complex)". Footnote (p. 64): female of S. curtatum runs to couplet 22 but cannot be further compared with S. inthanonense and S. sheilae due to brevity of original description.
+22b | Frons : head ratio 1.0 : 4.2-5.0. Sensory vesicle enlarged, 0.55-0.59 times as long as third palpomere of maxillary palp | 23 | | | Footnote (p. 64): female of S. curtatum runs to couplet 22.
+23a | Fore basitarsus 6.1 times as long as its greatest width | | Simulium inthanonense | |
+23b | Fore basitarsus 5.0-5.2 times as long as its greatest width | | Simulium trangense | |

@@ -1,0 +1,10 @@
+# key_id: takaoka2019_asiosimulium_larva
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 59. Covers: mature larvae of 5 Thai species of Simulium (Asiosimulium).
+1a | Postgenal cleft with pigmented sheath of subesophageal ganglion | 2 | | | Takaoka et al. 2019 p. 59
+1b | Postgenal cleft without pigmented sheath of subesophageal ganglion | 3 | | |
+2a | Histoblast of pupal gill with 22 filaments | | Simulium furvum | |
+2b | Histoblast of pupal gill with 31-33 filaments | | Simulium phurueaense | |
+3a | Labral fan with 30-33 primary rays | | Simulium saeungae | |
+3b | Labral fan with 38-45 primary rays | 4 | | |
+4a | Labral fan with 38-40 primary rays. Mandible with supernumerary serrations | | Simulium wanchaii | |
+4b | Labral fan with 43-45 primary rays. Mandible without supernumerary serrations | | Simulium oblongum | |

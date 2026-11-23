@@ -1,0 +1,8 @@
+# key_id: takaoka2019_asiosimulium_female
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 59. Covers: adult females of 5 Thai species of Simulium (Asiosimulium).
+1a | Cercus much elongated, about twice as long as its basal width | | Simulium oblongum; Simulium phurueaense | | Takaoka et al. 2019 p. 59
+1b | Cercus normal or somewhat elongated, less than 1.3 times as long as its basal width | 2 | | |
+2a | Abdominal segment 5 shiny dorsally | | Simulium wanchaii | |
+2b | Abdominal segment 5 dull dorsally | 3 | | |
+3a | Spermatheca globular | | Simulium saeungae | |
+3b | Spermatheca pear-shaped | | Simulium furvum | |

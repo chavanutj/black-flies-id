@@ -1,0 +1,88 @@
+# key_id: takaoka2019_simulium_larva
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 71-75. Covers: mature larvae of 53 Thai species of Simulium (Simulium) s. str. Footnote (p. 75): larvae of S. barnesi, S. chanyae, S. kiewmaepanense, S. phukaense, S. setsukoae, S. takense, S. thailandicum and S. umphangense are unknown; morphoforms A (with dorsal abdominal protuberances) and B (without) of S. fenestratum follow Takaoka et al. (2000) and Thaijarern et al. (2018).
+1a | Histoblast of pupal gill with 2 filaments | 2 | | | Takaoka et al. 2019 p. 71
+1b | Histoblast of pupal gill with 3, 6, 8 or 10 filaments | 3 | | |
+2a | Histoblast of pupal gill with filaments arising from short stalk | | Simulium baimaii | |
+2b | Histoblast of pupal gill with filaments lacking stalk | | Simulium lomkaoense | |
+3a | Histoblast of pupal gill with 3 filaments | | Simulium nodosum | |
+3b | Histoblast of pupal gill with 6-10 filaments | 4 | | |
+4a | Histoblast of pupal gill with 6 filaments | 5 | | |
+4b | Histoblast of pupal gill with 8 or 10 filaments | 32 | | |
+5a | Last abdominal segment with accessory sclerite ventrally | 6 | | |
+5b | Last abdominal segment without accessory sclerite ventrally | 7 | | | Takaoka et al. 2019 p. 72
+6a | Mandible with supernumerary serration | | Simulium nigrogilvum | |
+6b | Mandible without supernumerary serration | | Simulium vanellum | |
+7a | Abdominal segments 1-5 (or up to 8) each with 1 or more pairs of protuberances dorsally or dorsolaterally | 8 | | |
+7b | Abdominal segments lacking protuberances | 9 | | |
+8a | Abdominal segments 1-8 each with 1-6 pairs of protuberances dorsally and dorsolaterally | | Simulium siripoomense | |
+8b | Abdominal segments 1-5 each with pair of protuberances dorsally | | Simulium vanluni | |
+9a | Abdomen with its greatest width on segment 8 | 10 | | |
+9b | Abdomen with its greatest width on segment 6 or 7 | 13 | | |
+10a | Cephalic apotome mostly pale yellow. Body length 6.5-8.0 mm | | Simulium yongi | |
+10b | Cephalic apotome mostly light to medium brown. Body length 8.1-11.2 mm | 11 | | |
+11a | Posterior circlet with about 210 rows of hooklets | | Simulium choochotei | |
+11b | Posterior circlet with less than 160 rows of hooklets | 12 | | | As printed; couplet 12a includes up to 160 rows (144-160).
+12a | Posterior circlet with 144-160 rows of hooklets | | Simulium rudnicki | |
+12b | Posterior circlet with 136-138 rows of hooklets | | Simulium visuti | |
+13a | Postgenal cleft widely rounded apically | 14 | | |
+13b | Postgenal cleft nearly pointed apically | 22 | | |
+14a | Body longer than 7.0 mm | 15 | | |
+14b | Body shorter than 7.0 mm | 16 | | |
+15a | Posterior circlet with 87-93 rows of hooklets | | Simulium srisukai | |
+15b | Posterior circlet with about 120 rows of hooklets | | Simulium suchariti | |
+16a | Postgenal cleft moderately widened medially, its greatest width much larger than width at base | 17 | | |
+16b | Postgenal cleft not widened or slightly so medially, its greatest width subequal to, or slightly larger than, width at base | 18 | | |
+17a | Body length 5.2-5.6 mm. Each lobe of rectal organ with 6-10 secondary lobules | | Simulium chamlongi | |
+17b | Body length 5.9-6.3 mm. Each lobe of rectal organ with 11-16 secondary lobules | | Simulium luculentum | |
+18a | Each lobe of rectal organ with 19-28 secondary lobules | | Simulium pukaengense | |
+18b | Each lobe of rectal organ with 7-17 secondary lobules | 19 | | |
+19a | Labral fan with 30-36 primary rays | | Simulium maenoi | |
+19b | Labral fan with 38-50 primary rays | 20 | | |
+20a | Labral fan with 38-40 primary rays | | Simulium digrammicum | |
+20b | Labral fan with 46-50 primary rays | 21 | | |
+21a | Posterior circlet with 140-143 rows of hooklets | | Simulium thongsahuani | |
+21b | Posterior circlet with about 104 rows of hooklets | | Simulium bishopi | |
+22a | Body length 5.8-8.0 mm | 23 | | |
+22b | Body length shorter than 5.6 mm | 27 | | |
+23a | Histoblast of pupal gill with inflated filaments | 24 | | |
+23b | Histoblast of pupal gill with slender filaments | 25 | | |
+24a | Postgenal cleft 2.4-2.8 times as long as postgenal bridge. Posterior circlet with 84-98 rows of hooklets | | Simulium phayaoense | |
+24b | Postgenal cleft 1.8-2.0 times as long as postgenal bridge. Posterior circlet with about 120 rows of hooklets | | Simulium grossifilum | |
+25a | Sheath of subesophageal ganglion unpigmented | | Simulium atipornae | |
+25b | Sheath of subesophageal ganglion pigmented | 26 | | |
+26a | Eyebrow distinct | | Simulium mediocoloratum | |
+26b | Eyebrow indistinct | | Simulium crocinum | |
+27a | Body color reddish brown | | Simulium tani | | Printed as "S. tani (complex)".
+27b | Body color otherwise | 28 | | |
+28a | Anterior 1/2 of cephalic apotome broadly dark medially | | Simulium weji | |
+28b | Anterior 1/2 of cephalic apotome entirely pale | 29 | | |
+29a | Eye-spot region surrounded by darkened area | | Simulium brevipar; Simulium yuphae | |
+29b | Eye-spot region not surrounded by darkened area | 30 | | |
+30a | Eyebrow well defined | | Simulium manooni | |
+30b | Eyebrow weakly defined or indistinct | 31 | | |
+31a | Eyebrow indistinct | | Simulium doipuiense | | Printed as "S. doipuiense (complex)".
+31b | Eyebrow weakly defined | | Simulium tenebrosum | | Takaoka et al. 2019 p. 73. Printed as "S. tenebrosum (complex)".
+32a | Histoblast of pupal gill with 8 filaments | 33 | | |
+32b | Histoblast of pupal gill with 10 filaments | 42 | | |
+33a | Histoblast of pupal gill with enlarged basal fenestra | | Simulium bullatum | |
+33b | Histoblast of pupal gill with small basal fenestra | 34 | | |
+34a | Abdomen with protuberances dorsally | 35 | | |
+34b | Abdomen without protuberances dorsally | 39 | | |
+35a | Abdominal segments 1-8 each with pair of protuberances dorsally | | Simulium chiangmaiense | |
+35b | Abdominal segments 1-6 or 2-7 each with pair of protuberances dorsally | 36 | | | As printed; couplet 38a includes segments 3-7 (S. lampangense).
+36a | Each lobe of rectal organ with 15-20 secondary lobules | | Simulium fenestratum | | Printed as "S. fenestratum (morphoform A)".
+36b | Each lobe of rectal organ with less than 15 secondary lobules | 37 | | |
+37a | Head spots positive | | Simulium chainarongi | |
+37b | Head spots indistinct | 38 | | |
+38a | Abdominal segments 3-7 each with pair of protuberances dorsally | | Simulium lampangense | | As printed; reached via couplet 35b ("segments 1-6 or 2-7").
+38b | Abdominal segments 2-6 each with pair of protuberances dorsally | | Simulium chaliowae | | Takaoka et al. 2019 p. 74
+39a | Each lobe of rectal organ with 15-22 secondary lobules | | Simulium daoense; Simulium fenestratum | | Printed as "S. daoense & S. fenestratum (morphoform B)".
+39b | Each lobe of rectal organ with less than 15 secondary lobules | 40 | | |
+40a | Labral fan with 56-60 primary rays | | Simulium triglobus | |
+40b | Labral fan with 40-45 primary rays | 41 | | |
+41a | Each lobe of rectal organ with 8-10 secondary lobules | | Simulium malayense | | Printed as "S. malayense (complex)".
+41b | Each lobe of rectal organ with 13 or 14 secondary lobules | | Simulium undecimum | |
+42a | Histoblast of pupal gill with 10 filaments arranged as 2+3+3+2 from dorsal to ventral | | Simulium quinquestriatum | |
+42b | Histoblast of pupal gill with 10 filaments arranged as 2+2+2+2+2 or 2+1+2+1+2+2 from dorsal to ventral | 43 | | |
+43a | Histoblast of pupal gill with 10 filaments arranged as 2+1+2+1+2+2 from dorsal to ventral. Filaments without ridges and furrows | | Simulium phraense | |
+43b | Histoblast of pupal gill with 10 filaments arranged as 2+2+2+2+2 from dorsal to ventral. Filaments with ridges and furrows | | Simulium nakhonense | | Takaoka et al. 2019 p. 75

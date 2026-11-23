@@ -1,0 +1,46 @@
+# key_id: takaoka2020_asakoae_male
+# Takaoka, H., Srisuka, W., Fukuda, M. & Saeung, A. (2020) Twenty-one new species of the Simulium (Gomphostilbia) asakoae species group (Diptera, Simuliidae) in Thailand, with their genetic relationships. ZooKeys 950: 51-152. Key on pp. 142-144. Covers: adult males of 26 of the 27 Thai species of the Simulium asakoae species-group. Footnote (p. 142): The male of S. songense sp. nov. is unknown.
+1a | Hair tuft of base of radial vein brownish | | Simulium inthanonense | | Takaoka et al. 2020 p. 142
+1b | Hair tuft of base of radial vein yellow | 2 | | |
+2a | Upper-eye (large) facets vermilion | 3 | | | Takaoka et al. 2020 p. 143
+2b | Upper-eye (large) facets medium to dark brown | 4 | | |
+3a | Upper-eye (large) facets in 9 or 10 vertical columns and 12 horizontal rows; fore basitarsus 8.4–8.7 times as long as its greatest width | | Simulium thungchangense | |
+3b | Upper-eye (large) facets in 11 or 12 vertical columns and 13 or 14 horizontal rows; fore basitarsus 7.1–7.4 times as long as its greatest width | | Simulium asakoae | |
+4a | Antenna yellowish except few apical flagellomeres slightly to somewhat greyish | | Simulium teerachanense | |
+4b | Antenna brownish except scape, pedicel and base of first flagellomere yellowish | 5 | | |
+5a | Hind basitarsus 0.9 time as wide as hind femur (Fig. 7A) | 6 | | |
+5b | Hind basitarsus 1.0–1.3 times as wide as hind femur (Fig. 4C) | 11 | | |
+6a | Ventral plate with ventral margin rounded when viewed caudally (Fig. 17D) | 7 | | |
+6b | Ventral plate with ventral margin nearly straight medially when viewed caudally (Fig. 20F) | 9 | | |
+7a | Fore basitarsus 6.4 times as long as its greatest width | | Simulium banluangense | |
+7b | Fore basitarsus 7.4–8.8 times as long as its greatest width | 8 | | |
+8a | Wing length 1.6–1.7 mm | | Simulium chaowaense | |
+8b | Wing length 2.0 mm | | Simulium myanmarense | |
+9a | Upper-eye (large) facets in 13 vertical columns | | Simulium muangpanense | |
+9b | Upper-eye (large) facets in 14–16 vertical columns | 10 | | |
+10a | Upper-eye (large) facets in 14 vertical columns | | Simulium klonglanense | |
+10b | Upper-eye (large) facets in 15 or 16 vertical columns | | Simulium namdanense | | CORRECTION: printed as "S. namdangense sp. nov.".
+11a | Upper-eye (large) facets in 9 or 10 vertical columns | | Simulium puaense | |
+11b | Upper-eye (large) facets in 11 or more vertical columns | 12 | | |
+12a | Upper-eye (large) facets in 11 vertical columns | 13 | | |
+12b | Upper-eye (large) facets in 12–17 vertical columns | 16 | | |
+13a | Head nearly as wide as thorax | 14 | | |
+13b | Head slightly wider than thorax | 15 | | |
+14a | Ventral plate rounded ventrally when viewed caudally (Fig. 7D) | | Simulium maewongense | |
+14b | Ventral plate with ventral margin nearly straight when viewed caudally (Fig. 8E) | | Simulium loeiense | |
+15a | First antennal flagellomere 1.8–1.9 times as long as second | | Simulium sutheppuiense; Simulium maelanoiense | |
+15b | First antennal flagellomere 1.5–1.6 times as long as second | | Simulium phapeungense | |
+16a | Upper-eye (large) facets in 16 or 17 vertical columns | 17 | | |
+16b | Upper-eye (large) facets in 12–14 vertical columns | 19 | | |
+17a | Subcosta bare or with two hairs; wing length 1.9–2.0 mm | | Simulium huaimorense; Simulium kiewfinense | |
+17b | Subcosta with 7–12 hairs; wing length 2.2–2.5 mm | 18 | | |
+18a | Ventral plate with ventral margin nearly straight when viewed caudally (Fig. 18I) | | Simulium junkumae | | Takaoka et al. 2020 p. 144
+18b | Ventral plate with ventral margin rounded when viewed caudally | | Simulium rampae | |
+19a | Upper-eye (large) facets in 13 or 14 horizontal rows | 20 | | |
+19b | Upper-eye (large) facets in 15 or 16 horizontal rows | 22 | | |
+20a | Ventral plate with ventral margin rounded when viewed caudally (Fig. 12G) | | Simulium nanoiense | |
+20b | Ventral plate with ventral margin nearly straight when viewed caudally (Fig. 11F) | 21 | | |
+21a | Upper-eye (large) facets in 12 vertical columns | | Simulium nanthaburiense | |
+21b | Upper-eye (large) facets in 13 vertical columns | | Simulium maehongsonense | |
+22a | Ventral plate with ventral margin nearly straight when viewed caudally (Fig. 16F) | | Simulium pitasawatae | |
+22b | Ventral plate with ventral margin rounded when viewed caudally | | Simulium chiangdaoense; Simulium udomi | |

@@ -1,0 +1,94 @@
+# key_id: takaoka2019_simulium_female
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 66-68. Covers: adult females of 53 Thai species of Simulium (Simulium) s. str. Footnote (p. 75): female of S. thailandicum is unknown.
+1a | Claw with small subbasal tooth | 2 | | | Takaoka et al. 2019 p. 66
+1b | Claw without any tooth | 15 | | |
+2a | Basal section of radius fully haired. Fore basitarsus with thick dorsal hair crest | 3 | | |
+2b | Basal section of radius bare. Fore basitarsus with moderate dorsal hair crest | 5 | | |
+3a | Fore tibia entirely darkened | | Simulium umphangense | |
+3b | Fore tibia yellow on basal 1/2 and darkened on apical 1/2 | 4 | | |
+4a | Mandible with 5 or 6 distinct outer teeth | | Simulium nigrogilvum | |
+4b | Mandible with 6 vestigial outer teeth | | Simulium vanellum | |
+5a | Mid and hind femora mostly yellowish | 6 | | |
+5b | Mid and hind femora mostly brownish | 8 | | |
+6a | Hind tibia mostly yellowish except apical cap darkened | 7 | | |
+6b | Hind tibia mostly darkened except base yellow | | Simulium kiewmaepanense | |
+7a | Mid tibia entirely yellowish | | Simulium luculentum | |
+7b | Mid tibia yellowish except posterior suface mostly darkened | | Simulium chamlongi | | As printed ("suface" for surface).
+8a | Scutum densely covered with yellow hairs | 9 | | |
+8b | Scutum moderately covered with brassy hairs | 11 | | |
+9a | Ovipositor valve with inner margin nearly straight | | Simulium atipornae | |
+9b | Ovipositor valve with inner margin concave | 10 | | |
+10a | Anteromedian surface of paraproct unpigmented | | Simulium srisukai | |
+10b | Anteromedian surface of paraproct darkened | | Simulium barnesi | |
+11a | Antenna yellow or tawny with 2 apical flagellomeres blackish | | Simulium vanluni | |
+11b | Antenna brownish black with scape, pedicel and base of first flagellomere yellow | 12 | | |
+12a | Ovipositor valve elongated, tapered apically | | Simulium bishopi | |
+12b | Ovipositor valve short, obliquely slanted posterolaterally | 13 | | |
+13a | Abdominal segment 7 with branched hairs ventrally | | Simulium siripoomense | |
+13b | Abdominal segment 7 with unbranched hairs ventrally | 14 | | |
+14a | Subcosta haired | | Simulium baimaii | |
+14b | Subcosta bare | | Simulium lomkaoense | |
+15a | Scutum with 5 distinct longitudinal vittae | 16 | | |
+15b | Scutum without dorsal vittae | 36 | | |
+16a | Scutum with 1 median, 2 submedian and 2 lateral dark vittae when illuminated anteriorly and viewed dorsally | 17 | | |
+16b | Scutum with 1 median, 2 submedian and 2 sublateral dark vittae when illuminated anteriorly and viewed dorsally | 27 | | |
+17a | Fore tibia medium to dark brown, without white area on outer surface. Hind tibia dark brown to brownish black with base yellow. Inner margin of ovipositor valve with ventrally produced round flap | | Simulium nakhonense; Simulium chiangmaiense; Simulium phraense; Simulium quinquestriatum | |
+17b | Fore tibia with white shiny area on outer surface. Hind tibia whitish or yellowish on basal 2/3 or more, dark brown to brownish black on remainder. Inner margin of ovipositor valve without such flap | 18 | | |
+18a | Basal section of radius fully haired | 19 | | |
+18b | Basal section of radius bare or partially haired | 24 | | |
+19a | Ovipositor valve with elongate internal projection | 20 | | |
+19b | Ovipositor valve without such internal projection | 21 | | |
+20a | Sensory vesicle 0.41 times as long as third palpomere of maxillary palp | | Simulium grossifilum | |
+20b | Sensory vesicle 0.34 times as long as third palpomere of maxillary palp | | Simulium phayaoense | |
+21a | Ovipositor valve with 22 or 23 stout hairs, as long as or longer than those on sternite 8 | | Simulium choochotei | |
+21b | Ovipositor valve with 12-16 hairs, much shorter than those on sternite 8 | 22 | | |
+22a | Paraproct with about 60 medium-long to long stout hairs, several of which are much longer than those on sternite 8 | | Simulium visuti | | Takaoka et al. 2019 p. 67
+22b | Paraproct with 28-30 short to medium-long hairs, all of which are much shorter than those on sternite 8 | 23 | | |
+23a | Cibarium with minute spinous processes near base of medial projection | | Simulium pukaengense | |
+23b | Cibarium without such spinous processes near base of medial projection | | Simulium digrammicum | |
+24a | Ovipositor valve narrowly darkened along inner margin | | Simulium suchariti | |
+24b | Ovipositor valve unpigmented along inner margin | 25 | | |
+25a | Cibarium with medial projection shorter than its basal width. Abdominal segment 2 entirely dark brown | | Simulium phukaense | |
+25b | Cibarium with medial projection much longer than its basal width. Abdominal segment 2 pale yellow on anterior 1/2-3/4 | 26 | | |
+26a | Fore basitarsus 5.5 times as long as its greatest width | | Simulium maenoi | |
+26b | Fore basitarsus 4.5 times as long as its greatest width | | Simulium thongsahuani | |
+27a | Mid femur entirely yellow. Spermathecae 3 in number | | Simulium triglobus | |
+27b | Mid femur with darkened area. Spermatheca 1 in number | 28 | | |
+28a | Hind femur yellowish almost entirely | | Simulium chanyae | |
+28b | Hind femur darkened at least on more than apical 1/2 | 29 | | |
+29a | Paraproct in lateral view tapered ventrally | 30 | | |
+29b | Paraproct in lateral view rounded ventrally | 31 | | |
+30a | Cibarium with minute spinous processes dorsomedially | 32 | | |
+30b | Cibarium without any processes dorsomedially | | Simulium malayense | | Printed as "S. malayense (complex)".
+31a | Fore basitarsus 5.0 times as long as its greatest width | | Simulium undecimum | |
+31b | Fore basitarsus 4.1 times as long as its greatest width | | Simulium bullatum | |
+32a | Ovipositor valve with 7-10 medium-long hairs | | Simulium takense | |
+32b | Ovipositor valve with 1-5 short to medium-long hairs | 33 | | |
+33a | Basal section of radius with few hairs near apical end | | Simulium chaliowae; Simulium fenestratum | | Printed as "S. chaliowae & S. fenestratum (complex)".
+33b | Basal section of radius entirely bare | 34 | | |
+34a | Fore basitarsus 5.5-5.9 times as long as its greatest width | | Simulium daoense | |
+34b | Fore basitarsus 4.7-4.9 times as long as its greatest width | 35 | | |
+35a | Sensory vesicle 0.35 times as long as third palpomere of maxillary palp | | Simulium chainarongi | |
+35b | Sensory vesicle 0.44 times as long as third palpomere of maxillary palp | | Simulium lampangense | |
+36a | Mid tarsomeres 2 and 3 entirely yellow | | Simulium nodosum | |
+36b | Mid tarsomeres 2 and 3 light brown to brownish black | 37 | | |
+37a | Mid femur entirely yellow | 38 | | |
+37b | Mid femur almost dark brown | 40 | | |
+38a | Mid tibia yellowish white with apical cap light to medium brown | | Simulium mediocoloratum | |
+38b | Mid tibia entirely yellowish | 39 | | |
+39a | Dorsal surface of anterior 1/2 of abdominal segment 2 medium brown | | Simulium crocinum | |
+39b | Dorsal surface of anterior 1/2 of abdominal segment 2 white or whitish yellow | | Simulium rudnicki | |
+40a | Abdominal segment 7 with pair of clustered hairs ventrally | 41 | | |
+40b | Abdominal segment 7 without such clustered hairs ventrally | 45 | | |
+41a | Pair of clustered hairs on abdominal segment 7 short, subequal in length to those on surrounding area | | Simulium setsukoae | |
+41b | Pair of clustered hairs on abdominal segment 7 much longer than those on surrounding area | 42 | | |
+42a | Mid tibia light brown with base somewhat yellow | | Simulium weji | |
+42b | Mid tibia white on basal 2/5 or more, medium brown on rest | 43 | | |
+43a | Hind basitarsus yellow on basal 1/2, dark brown on rest | | Simulium tenebrosum | | Printed as "S. tenebrosum (complex)".
+43b | Hind basitarsus yellowish on basal 3/5, dark brown on rest | 44 | | |
+44a | Hind tibia yellowish white except apical 2/5 medium to dark brown | | Simulium doipuiense | | Printed as "S. doipuiense (complex)".
+44b | Hind tibia brownish black except little more than basal 2/5 yellowish white | | Simulium manooni | |
+45a | Hind basitarsus white on little more than basal 1/2, and brownish black on rest. Scutum covered with yellowish hairs as well as dark ones | | Simulium yongi | |
+45b | Hind basitarsus white on basal 3/5 or more, and brownish black on rest. Scutum covered with dark brown hairs only | 46 | | |
+46a | Sensory vesicle enlarged, 0.6-0.7 times as long as third palpomere of maxillary palp | | Simulium tani | | Printed as "S. tani (complex)".
+46b | Sensory vesicle medium-sized, 0.3 times as long as third palpomere of maxillary palp | | Simulium brevipar; Simulium yuphae | | Takaoka et al. 2019 p. 68

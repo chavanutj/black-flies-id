@@ -1,0 +1,16 @@
+# key_id: srisuka2024_asiosimulium_larva
+# Srisuka, W., Takaoka, H., Taai, K., Maleewong, W., Aupalee, K. & Saeung, A. (2024) Morphological description and genetic analysis of a new black fly species (Diptera: Simuliidae) in the subgenus Asiosimulium from central Thailand. Parasites & Vectors 17: 379. Key on p. 16. Covers: mature larvae of 8 of the 9 known species of Simulium (Asiosimulium) (Thailand, Myanmar, Nepal). Footnote (p. 16): The larva of S. shanense is unknown.
+1a | Histoblast of pupal gill with basal fenestra extremely bulbous | | Simulium suchitrae | | Srisuka et al. 2024 p. 16
+1b | Histoblast of pupal gill with basal fenestra normal, small | 2 | | |
+2a | Postgenal cleft with pigmented sheath of subesophageal ganglion | 3 | | |
+2b | Postgenal cleft without pigmented sheath of subesophageal ganglion | 6 | | |
+3a | Histoblast of pupal gill with 22 filaments | | Simulium furvum | |
+3b | Histoblast of pupal gill with 28–33 filaments | 4 | | |
+4a | Histoblast of pupal gill with 28–30 filaments | | Simulium kittipati | |
+4b | Histoblast of pupal gill with 31–33 filaments | 5 | | |
+5a | Labral fan with 42–45 main rays | | Simulium phurueaense | |
+5b | Labral fan with 37–39 main rays | | Simulium khongchiamense | |
+6a | Labral fan with 30–33 primary rays | | Simulium saeungae | |
+6b | Labral fan with 38–45 primary rays | 7 | | |
+7a | Labral fan with 38–40 primary rays; mandible with supernumerary serrations | | Simulium wanchaii | |
+7b | Labral fan with 43–45 primary rays; mandible without supernumerary serration | | Simulium oblongum | |

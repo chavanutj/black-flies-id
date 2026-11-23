@@ -1,0 +1,62 @@
+# key_id: takaoka2019_gomphostilbia_pupa
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 61-63. Covers: pupae of 34 Thai species of Simulium (Gomphostilbia).
+1a | Gill of inflated structure | 2 | | | Takaoka et al. 2019 p. 61
+1b | Gill filamentous | 7 | | |
+2a | Gill with 12 slender filaments | | Simulium kuvangkadilokae | |
+2b | Gill with 8 slender filaments | 3 | | |
+3a | Gill with 4-6 finger-, thumb- or nipple-like projections | 4 | | |
+3b | Gill without such finger-, thumb- or nipple-like projections | | Simulium maleewongae | |
+4a | Terminal hooks cone-like | | Simulium thuathienense | |
+4b | Terminal hooks plate-like with crenulated outer margins | 5 | | |
+5a | Inflated structure of gill bifircated when viewed laterally, with 4-6 thumb- or nipple-like projections | | Simulium prayongi | | As printed ("bifircated" for bifurcated).
+5b | Inflated structure of gill nearly straight when viewed laterally, with 6 finger- or thumb-like projections | 6 | | |
+6a | Relative width of second constriction against that of first one 0.8-0.9 | | Simulium gombakense | |
+6b | Relative width of second constriction against that of first one 1.0-1.4 | | Simulium paiense | | Printed as "S. paiense (complex)".
+7a | Gill with 6 filaments | 8 | | |
+7b | Gill with 8 or 10 filaments | 10 | | |
+8a | Cocoon without anterodorsal projection | | Simulium piroonae | |
+8b | Cocoon with anterodorsal projection | 9 | | | Takaoka et al. 2019 p. 62
+9a | Cocoon with elongate anterodorsal projection extending beyond anteroventral tips of cocoon | | Simulium udomi | |
+9b | Cocoon with short anterodorsal projection not extending beyond anteroventral tips of cocoon | | Simulium fukudae | |
+10a | Gill with 10 filaments | 11 | | |
+10b | Gill with 8 filaments | 12 | | |
+11a | Dorsal surface of abdominal segments 1 and 2 darkened | | Simulium chiangraiense; Simulium pamiangense | |
+11b | Dorsal surface of abdominal segments 1 and 2 not darkened | | Simulium huaikaeoense; Simulium khaokhoense; Simulium maeklangense | |
+12a | Frons and anterodorsal part of thorax bare | | Simulium adleri | |
+12b | Frons and anterodorsal part of thorax with tubercles | 13 | | |
+13a | Face with 2 trichomes on each side | | Simulium chayamaritae | |
+13b | Face with 1 trichome on each side | 14 | | |
+14a | Gill filaments arranged as 1+1+2+4 from dorsal to ventral | | Simulium otsukai | |
+14b | Gill filaments arranged as 3+3+2 or 6+2 from dorsal to ventral | 15 | | |
+15a | Gill filaments arranged in 2 groups, i.e. one dorsal (4 individual and 2 paired filaments) and one ventral (2 paired filaments) | | Simulium chumpornense | |
+15b | Gill filaments arranged in 3 groups (3, 3 and 2 filaments from dorsal to ventral) | 16 | | |
+16a | Gill filaments all shorter than pupal body (shorter than 1.6 mm), short-stalked | 17 | | |
+16b | Gill filaments subequal to, or longer than, pupal body (longer than 1.9 mm), moderately-stalked | 20 | | |
+17a | Antennal sheath smooth | 18 | | |
+17b | Antennal sheath with tubercles | 19 | | |
+18a | Dorsal surface of abdominal segments 1-5 not darkened | | Simulium angulistylum | | Printed as "S. angulistylum (complex)".
+18b | Dorsal surface of abdominal segments 1-5 darkened | | Simulium isanense | |
+19a | Antennal sheath with 9 marked ridges each corresponding to flagellomeres 1-9, each ridge covered with several tubercles | | Simulium ngaoense | |
+19b | Antennal sheath with 10 less marked ridges corresponding to pedicel and flagellomeres 1-9 | | Simulium dentistylum | |
+20a | Dorsal and middle triplets and ventral pair arising basally at same level | 21 | | |
+20b | Dorsal and middle triplets sharing short stalk, which arises with stalk of ventral pair from short common basal stalk | 24 | | |
+21a | Terminal hooks wide, plate-like, with crenulated outer margins | 22 | | |
+21b | Terminal hooks triangular | 23 | | |
+22a | Six filaments of two triplets abruptly tapered basally | | Simulium datfaense | |
+22b | Six filaments of two triplets nearly of same thickness | | Simulium cheongi | |
+23a | Dorsal surface of abdominal segment 9 with spine-combs; terminal hooks triangular, with base extending laterally when viewed posteriorly | | Simulium siamense | | Printed as "S. siamense (complex)".
+23b | Dorsal surface of abdominal segment 9 without spine-combs; terminal hooks cone-like, with base not extending laterally | | Simulium novemarticulatum | |
+24a | Dorsal and middle triples consisting of 1 individual filament and 2 paired filaments with long stalk | | Simulium burtoni | | As printed ("triples" for triplets).
+24b | Dorsal and middle triplets consisting of 1 individual filament and 2 paired filaments with short or medium-long stalk | 25 | | |
+25a | Cocoon with distinct anterodorsal projection | 26 | | |
+25b | Cocoon with or without anterodorsal bulge, but without anterodorsal projection | 27 | | |
+26a | Cocoon with elongate anterodorsal projection extending much beyond anteroventral tips of cocoon | | Simulium chiangdaoense | |
+26b | Cocoon with short anterodorsal projection extending up to anteroventral tips of cocoon | | Simulium inthanonense | |
+27a | Terminal hooks weakly undulate on outer margin | | Simulium sheilae | | Printed as "S. sheilae (complex)".
+27b | Terminal hooks weakly serrate on outer margin | 28 | | |
+28a | Dorsal surface of abdominal segments 1 and 2 darkened | | Simulium asakoae | | Printed as "S. asakoae (complex)".
+28b | Dorsal surface of abdominal segments 1 and 2 not darkened | 29 | | |
+29a | Angle formed by stalks of ventral pair and dorsal triplet more than 90 degrees when viewed laterally | | Simulium trangense | |
+29b | Angle formed by stalks of ventral pair and dorsal triplet 90 degrees when viewed laterally | 30 | | |
+30a | Anterodorsal margin of cocoon somewhat produced anteriorly | | Simulium doisaketense | |
+30b | Anterodorsal margin of cocoon not produced anteriorly | | Simulium curtatum | | Takaoka et al. 2019 p. 63

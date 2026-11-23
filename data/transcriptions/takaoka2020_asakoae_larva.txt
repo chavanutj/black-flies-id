@@ -1,0 +1,44 @@
+# key_id: takaoka2020_asakoae_larva
+# Takaoka, H., Srisuka, W., Fukuda, M. & Saeung, A. (2020) Twenty-one new species of the Simulium (Gomphostilbia) asakoae species group (Diptera, Simuliidae) in Thailand, with their genetic relationships. ZooKeys 950: 51-152. Key on pp. 145-146. Covers: mature larvae of 21 of the 27 Thai species of the Simulium asakoae species-group (S. inthanonense keys out twice as morph 1 and morph 2). Footnote (p. 145): The larvae of S. banluangense sp. nov., S. nanthaburiense sp. nov., S. kiewfinense sp. nov., S. maelanoiense sp. nov., S. puaense sp. nov. and S. songense sp. nov. are unknown.
+1a | Abdominal segments 1–4 unicolorous | 2 | | | Takaoka et al. 2020 p. 145
+1b | Abdominal segments 1–4 not unicolorous | 12 | | |
+2a | Abdominal segments 1–4 light ochreous (Fig. 25A, B, C) | 3 | | |
+2b | Abdominal segments 1–4 greyish or greenish grey or greenish | 5 | | |
+3a | Postgenal cleft 2.8–3.3 times as long as postgenal bridge (Fig. 6I) | | Simulium teerachanense | |
+3b | Postgenal cleft 1.2–2.4 times as long as postgenal bridge (Fig. 16K) | 4 | | |
+4a | Labral fan with 23 or 24 primary rays | | Simulium pitasawatae | |
+4b | Labral fan with 29 or 30 primary rays | | Simulium sutheppuiense | |
+5a | Pharate pupal gill with elongate common basal stalk | | Simulium rampae | |
+5b | Pharate pupal gill with medium-long common basal stalk | 6 | | |
+6a | Postgenal cleft 1.5–4.0 times length of postgenal bridge | 7 | | |
+6b | Postgenal cleft 0.8–1.4 times length of postgenal bridge | 9 | | |
+7a | Head spots moderately positive | | Simulium asakoae | |
+7b | Head spots indistinct or faintly positive | 8 | | |
+8a | Postgenal cleft 2.5 times as long as postgenal bridge (Fig. 23L) | | Simulium namdanense | | Takaoka et al. 2020 p. 146
+8b | Postgenal cleft 3.7–4.0 times as long as postgenal bridge (Fig. 22M) | | Simulium klonglanense | |
+9a | Abdominal segments 5–8 pinkish (Fig. 25Q) | | Simulium thungchangense | |
+9b | Abdominal color pattern otherwise | 10 | | |
+10a | Abdominal segments 7 and 8 light grey but abdominal segments 5 and 6 unpigmented (Fig. 25I) | | Simulium huaimorense | |
+10b | Abdominal color pattern otherwise | 11 | | |
+11a | Abdominal segments 5, 7 and 8 grey but abdominal segment 6 unpigmented (Fig. 25H) | | Simulium loeiense | |
+11b | Abdominal segments 5, 6, 7 and 8 greyish (Fig. 25G) | | Simulium chaowaense | |
+12a | Abdominal segment 1 grey but abdominal segments 2–4 ochreous (Fig. 25P) | | Simulium maehongsonense | |
+12b | Abdominal color pattern otherwise | 13 | | |
+13a | Abdominal segments 1 and 2 grey or green but abdominal segments 3 and 4 unpigmented | 14 | | |
+13b | Abdominal color pattern otherwise | 15 | | |
+14a | Abdominal segments 7 and 8 grey with faint reddish brown pigment (Fig. 25L) | | Simulium myanmarense | |
+14b | Abdominal segments 7 and 8 not grey with distinct reddish brown pigment (Fig. 25M) | | Simulium maewongense | |
+15a | Abdominal segments 1, 2 and 3 grey or greenish grey but abdominal segment 4 unpigmented or light ochreous (Fig. 25J, K, S) | 16 | | |
+15b | Abdominal color pattern otherwise | 18 | | |
+16a | Abdominal segments 7 and 8 grey with reddish brown pigment (Fig. 25J) | | Simulium nanoiense | |
+16b | Abdominal segments 7 and 8 light ochreous (Fig. 25K, S) | 17 | | |
+17a | Abdominal segments 1, 2 and 3 greyish, and segments 7 and 8 with reddish brown pigment (Fig. 25K) | | Simulium junkumae | |
+17b | Abdominal segments 1, 2 and 3 greenish grey but segments 7 and 8 lacking reddish brown pigment (Fig. 25S) | | Simulium inthanonense | | Printed as "S. inthanonense (morph 1)".
+18a | Abdominal segments 1 and 3 greenish grey (Fig. 25T) | | Simulium inthanonense | | Printed as "S. inthanonense (morph 2)".
+18b | Abdominal color pattern otherwise | 19 | | |
+19a | Abdominal segments 1, 3 and 4 grey but abdominal segment 2 light ochreous (Fig. 25N) | | Simulium phapeungense | |
+19b | Abdominal color pattern otherwise | 20 | | |
+20a | Abdominal segments 1 and 4 greyish but abdominal segments 2 and 3 light ochreous (Fig. 25O) | | Simulium muangpanense | |
+20b | Abdominal segments 1–3 light green but abdominal segment 4 light ochreous (Fig. 25R) | 21 | | |
+21a | Pharate pupal gill with six filament | | Simulium udomi | | As printed ("six filament" for six filaments).
+21b | Pharate pupal gill with eight filaments | | Simulium chiangdaoense | |

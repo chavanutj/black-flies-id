@@ -1,0 +1,93 @@
+diagram_id,entry,x,y,w,h
+head-thorax,g:Antenna,185,34,205,34
+head-thorax,g:Frons:head ratio,212,70,150,74
+head-thorax,g:Scutum,200,148,175,168
+head-thorax,g:Scutellum,232,318,115,42
+head-thorax,g:Antenna,482,18,138,24
+head-thorax,g:Upper-eye facets,455,44,175,108
+head-thorax,g:Scutum,450,155,176,155
+head-thorax,g:Scutellum,492,310,88,62
+head-thorax,g:Antenna,714,18,142,22
+head-thorax,g:Upper-eye facets,700,42,168,108
+head-thorax,g:Scutum,706,154,162,156
+head-thorax,g:Scutellum,746,312,82,48
+female-head,g:Antenna,28,14,140,342
+female-head,g:Maxillary palpus,174,14,140,342
+female-head,g:Sensory vesicle,320,14,208,342
+female-head,g:Lacinia,534,14,188,342
+female-head,g:Mandible,730,14,340,342
+female-body,g:Cibarium,28,364,236,288
+female-body,g:Scutum,270,364,202,242
+female-body,g:Scutellum,295,608,150,44
+female-body,a:foreleg,476,364,144,288
+female-body,g:Basitarsus,625,364,98,288
+female-body,a:midleg,729,364,118,288
+female-body,a:hindleg,851,364,220,288
+female-body,g:Tibia,28,657,114,250
+female-body,g:Basitarsus,148,657,116,250
+female-body,g:Calcipala,269,657,146,250
+female-body,g:Pedisulcus,420,657,143,250
+female-body,g:Claw,567,657,156,250
+female-body,g:Abdominal tergites,728,657,175,250
+female-body,g:Abdominal tergites,906,657,166,250
+female-terminalia,g:Sternite 8,28,912,326,134
+female-terminalia,g:Ovipositor valve,90,1048,195,96
+female-terminalia,g:Genital fork,360,912,203,266
+female-terminalia,g:Paraproct,568,912,154,110
+female-terminalia,g:Cercus,592,1022,115,156
+female-terminalia,g:Paraproct,730,912,170,104
+female-terminalia,g:Cercus,754,1016,130,160
+female-terminalia,g:Spermatheca,907,912,164,266
+male-genitalia,g:Basitarsus,28,318,94,324
+male-genitalia,g:Basitarsus,126,318,88,324
+male-genitalia,g:Calcipala,220,318,132,195
+male-genitalia,g:Pedisulcus,250,514,102,128
+male-genitalia,g:Abdominal tergites,358,318,192,324
+male-genitalia,g:Abdominal tergites,555,318,170,324
+male-genitalia,g:Coxite,738,322,96,192
+male-genitalia,g:Coxite,926,322,138,192
+male-genitalia,g:Ventral plate,836,408,88,96
+male-genitalia,g:Style,762,516,258,82
+male-genitalia,g:Style,28,648,186,260
+male-genitalia,g:Ventral plate,220,648,330,260
+male-genitalia,g:Ventral plate,555,648,170,260
+male-genitalia,g:Ventral plate,732,648,340,260
+male-genitalia,g:Median sclerite,28,914,274,308
+male-genitalia,g:Paramere,307,914,242,308
+male-genitalia,g:Aedeagal membrane,555,914,272,188
+male-genitalia,g:Dorsal plate,622,1102,155,120
+male-genitalia,g:Cercus,832,914,240,308
+pupa,g:Cocoon,78,16,255,290
+pupa,g:Pupal gill,335,18,175,155
+pupa,g:Pupal frons & tubercles,522,14,264,294
+pupa,g:Pupal frons & tubercles,790,14,230,294
+pupa,a:frontal-trichome,76,312,96,154
+pupa,a:facial-trichome,174,312,97,154
+pupa,a:thoracic-trichomes,273,312,97,154
+pupa,a:thoracic-trichomes,76,468,294,154
+pupa,g:Pupal gill,374,314,542,308
+pupa,g:Basal fenestra,916,418,104,140
+pupa,g:Terminal hooks,78,626,428,232
+pupa,g:Cocoon,512,626,508,232
+larva-body,a:larva-body,78,14,484,140
+larva-body,a:larva-body,566,14,322,140
+larva-body,g:Histoblast,888,42,54,50
+larva-body,g:Labral fan,82,166,106,118
+larva-body,g:Labral fan,279,164,96,112
+larva-body,g:Cephalic apotome,190,224,88,118
+larva-body,g:Histoblast,410,190,88,104
+larva-body,g:Labral fan,600,170,134,140
+larva-body,g:Labral fan,742,160,278,86
+larva-body,g:Subesophageal ganglion,832,246,114,96
+larva-parts,g:Larval antenna,78,348,218,250
+larva-parts,a:microtrichia,300,348,80,250
+larva-parts,g:Mandible,384,348,300,250
+larva-parts,g:Hypostomium,688,348,332,250
+larva-parts,g:Hypostomium,152,610,104,68
+larva-parts,g:Postgenal bridge,152,680,104,22
+larva-parts,g:Postgenal cleft,78,704,242,156
+larva-parts,g:Anal sclerite,438,694,120,78
+larva-parts,g:Posterior circlet,414,774,176,72
+larva-parts,g:Anal sclerite,664,604,354,106
+larva-parts,a:anal-sensilla,664,712,354,42
+larva-parts,g:Posterior circlet,664,756,354,104

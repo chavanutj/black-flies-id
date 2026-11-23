@@ -1,11 +1,24 @@
 {
- "name": "Black Flies of the Oriental Region",
- "short_name": "Black Flies",
- "description": "Identification keys, species pages and terminology",
+ "name": "Black Flies of the World",
+ "short_name": "Black Fly ID",
+ "description": "Identification keys, species pages and terminology for Simuliidae",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
  "background_color": "#fbfaf7",
  "theme_color": "#1f5c4a",
- "icons": []
+ "icons": [
+  {
+   "src": "assets/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "assets/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
 }

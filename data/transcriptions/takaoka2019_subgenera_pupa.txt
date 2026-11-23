@@ -1,0 +1,18 @@
+# key_id: takaoka2019_subgenera_pupa
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 58. Covers: pupae of the 6 subgenera of Simulium in Thailand.
+1a | Gill with 19-56 filaments | | Subgenus Asiosimulium | Subgenus Asiosimulium | Takaoka et al. 2019 p. 58
+1b | Gill with less than 15 filaments | 2 | | |
+2a | Gill with 12-14 filaments. Gill filaments with numerous tiny black spots | | Subgenus Montisimulium | Subgenus Montisimulium |
+2b | Gill with less than 12 filaments. Gill filaments without black spots | 3 | | |
+3a | Dorsal surface of abdominal segment 2 with stout hooks, similar in size to those on abdominal segments 3 and 4. Dorsal surface of abdominal segment 5-9 without spine-combs | | Subgenus Daviesellum | Subgenus Daviesellum |
+3b | Dorsal surface of abdominal segment 2 with spines in place of such distinct hooks, and much smaller than hooks on abdominal segments 3 and 4. Dorsal surface of at least abdominal segment 8 with spine-combs | 4 | | |
+4a | Abdominal segment 9 with grapnel-like hooklets on each side | | Subgenus Gomphostilbia | Subgenus Gomphostilbia |
+4b | Abdominal segment 9 without grapnel-like hooklets on each side | 5 | | |
+5a | Gill with 2, 3, 8 or 10 filaments | | Subgenus Simulium | Subgenus Simulium |
+5b | Gill with 4 or 6 filaments | 6 | | |
+6a | Gill with 4 filaments | | Subgenus Nevermannia (S. vernum species-group) | Subgenus Nevermannia |
+6b | Gill with 6 filaments | 7 | | |
+7a | Gill filaments longer than pupal body | | Subgenus Nevermannia (S. feuerborni species-group) | Subgenus Nevermannia |
+7b | Gill filaments shorter than pupal body | 8 | | |
+8a | Cocoon with short anterodorsal projection | | Subgenus Nevermannia (S. ruficorne species-group) | Subgenus Nevermannia |
+8b | Cocoon wall-pocket shaped without anterodosal projection, shoe-shaped or boot-shaped | | Subgenus Simulium | Subgenus Simulium | As printed ("anterodosal" for anterodorsal).

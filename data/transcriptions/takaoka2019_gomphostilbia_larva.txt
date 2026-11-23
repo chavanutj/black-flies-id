@@ -1,0 +1,50 @@
+# key_id: takaoka2019_gomphostilbia_larva
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 63-64. Covers: mature larvae of 34 Thai species of Simulium (Gomphostilbia). Footnote (p. 64): larvae of S. chiangdaoense, S. datfaense, S. otsukai and S. prayongi are unknown.
+1a | Abdomen with protuberances dorsally | 2 | | | Takaoka et al. 2019 p. 63
+1b | Abdomen without protuberances dorsally | 6 | | |
+2a | Abdominal segments 1 and 2 each with 4 pairs of protuberances | | Simulium kuvangkadilokae | |
+2b | Abdominal segments 1 and 2 each with 1-3 pairs of protuberances | 3 | | |
+3a | Abdominal segments 1 and 2 each with 3 pairs of protuberances | | Simulium piroonae | |
+3b | Abdominal segments 1 and 2 each with 1 or 2 pairs of protuberances | 4 | | |
+4a | Thoracic segment 3 and abdominal segments 1-5 each with 1 pair of dorsolateral protuberances | | Simulium novemarticulatum | |
+4b | Thoracic segment 3 and abdominal segments 1-5 each with 1 dorsal pair and 1 dorsolateral pair of protuberances | 5 | | |
+5a | Postgenal cleft long, reaching posterior margin of hypostoma. Thorax and abdomen densely covered with dark spines of various sizes | | Simulium ngaoense | |
+5b | Postgenal cleft long, but not reaching posterior margin of hypostoma. Thorax and abdomen sparsely or moderately covered with unpgimented or dark minute setae | | Simulium chumpornense | | As printed ("unpgimented" for unpigmented).
+6a | Postgenal cleft long, approaching or completely reaching posterior margin of hypostoma | 7 | | |
+6b | Postgenal cleft short or medium-long | 17 | | |
+7a | Abdomen markedly constricted between segments 4 and 5 when viewed dorsally | | Simulium dentistylum | |
+7b | Abdomen not constricted between segments 4 and 5 when viewed dorsally | 8 | | |
+8a | Abdomen moderately covered with unbranched minute dark setae dorsally on segments 5-8 | 9 | | |
+8b | Abdomen moderately or densely covered with branched dark spinous setae or spinules dorsally on segments 5-8 | 10 | | |
+9a | Postgenal cleft reaching posterior margin of hypostoma | | Simulium sheilae | | Printed as "S. sheilae (complex)".
+9b | Postgenal cleft approaching to posterior margin of hypostoma | | Simulium trangense | |
+10a | Histoblast of gill with 6 filaments | | Simulium fukudae | |
+10b | Histoblast of gill with 8 or 10 filaments | 11 | | |
+11a | Thoracic cuticle moderately covered with minute dark spinules with 7-11 branches dorsally. Histoblast of pupal gill with 10 filaments | | Simulium chiangraiense; Simulium huaikaeoense; Simulium khaokhoense; Simulium maeklangense; Simulium pamiangense | |
+11b | Thoracic cuticle almost bare or sparsely covered with minute spinules dorsally. Histoblast of pupal gill with 8 filaments | 12 | | |
+12a | Minute dark spinous setae on abdominal segments 5-8 somewhat flat and stout basally, with short branches apically | | Simulium siamense | | Printed as "S. siamense (complex)".
+12b | Minute dark spinous setae on abdominal segments 5-8 slender and hair-like basally, with long branches | 13 | | |
+13a | Labral fan with 26 primary rays | | Simulium chayamaritae | |
+13b | Labral fan with 32-41 primary rays | 14 | | |
+14a | Minute dark spinous setae on abdominal segments 5-8 with 5-12 (mostly 8-10) branches | | Simulium angulistylum | | Printed as "S. angulistylum (complex)".
+14b | Minute dark spinous setae on abdominal segments 5-8 with 0-5 branches | 15 | | |
+15a | Posterior circlet with 94-98 rows of hooklets | | Simulium isanense | |
+15b | Posterior circlet with less than 90 rows of hooklets | 16 | | |
+16a | Posterior circlet with about 76 rows of hooklets | | Simulium burtoni | |
+16b | Posterior circlet with about 86 rows of hooklet | | Simulium cheongi | |
+17a | Histoblast of pupal gill inflated | 18 | | |
+17b | Histoblast of pupal gill filamentous | 20 | | |
+18a | Abdomen with reddish-brown markings on segments 1-8 | | Simulium maleewongae | |
+18b | Abdomen with ochreous or reddish-brown markings on segments 6-8 | 19 | | |
+19a | Abdominal segments 1-4 yellow | | Simulium thuathienense | |
+19b | Abdominal segments 1-4 gray | | Simulium gombakense; Simulium paiense | | Printed as "S. gombakense & S. paiense (complex)".
+20a | Histoblast of gill with 6 filaments | | Simulium udomi | |
+20b | Histoblast of gill with 8 filaments | 21 | | |
+21a | Postgenal cleft short, as long as or shorter than postgenal bridge | 22 | | |
+21b | Postgenal cleft longer than postgenal bridge | 23 | | |
+22a | Head capsule brownish | | Simulium adleri | |
+22b | Head capule yellowish | | Simulium inthanonense | | As printed ("capule" for capsule).
+23a | Abdominal segments 1-4 light grayish | | Simulium asakoae | | Takaoka et al. 2019 p. 64. Printed as "S. asakoae (complex)".
+23b | Abdominal segments 1-3 or 1-4 greenish | 24 | | |
+24a | Abdominal segments 1-3 greenish | | Simulium curtatum | |
+24b | Abdominal segments 1-4 greenish | | Simulium doisaketense | |

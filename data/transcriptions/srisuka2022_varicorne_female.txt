@@ -1,0 +1,28 @@
+# key_id: srisuka2022_varicorne_female
+# Srisuka, W., Aupalee, K., Otsuka, Y., Fukuda, M., Takaoka, H. & Saeung, A. (2022) A new species of Simulium (Gomphostilbia) (Diptera, Simuliidae) from Thailand, with a key to identify females of 14 species of the Simulium varicorne species-group. ZooKeys 1083: 1-12. Key on p. 9. Covers: adult females of 14 species of the Simulium varicorne species-group of subgenus Gomphostilbia (Oriental and Palaearctic). Note (p. 9): The female of S. breviflagellum Takaoka & Sofian-Azirun from Vietnam is not included because its female is unknown.
+1a | Antenna with seven flagellomeres | 2 | | | Srisuka et al. 2022 p. 9
+1b | Antenna with eight flagellomeres | 3 | | |
+2a | Sensory vesicle 0.29–0.31 times length of third palpal segment | | Simulium charlesi | |
+2b | Sensory vesicle 0.21–0.25 times length of third palpal segment | | Simulium novemarticulatum | |
+3a | Pleural membrane haired | | Simulium trirugosum | |
+3b | Pleural membrane bare | 4 | | |
+4a | Subcosta haired ventrally | 5 | | |
+4b | Subcosta bare | 8 | | |
+5a | Abdominal segments 5–8 shiny dorsally | 6 | | |
+5b | Abdominal segments 6–8 shiny dorsally | 7 | | |
+6a | Flagellomeres darkened except basal one-third of first flagellomere yellow | | Simulium huangi | |
+6b | Flagellomeres 3 and 5–8 darkened and others yellow | | Simulium burtoni | |
+7a | Hind femur entirely darkened | | Simulium shogakii | |
+7b | Hind femur darkened on apical one-third | | Simulium synanceium | |
+8a | Hind tibia darkened on apical half | 9 | | |
+8b | Hind tibia darkened on apical one-third | 11 | | |
+9a | Fore basitarsus 6.29–6.38 times as long as its greatest width | | Simulium khelangense | |
+9b | Fore basitarsus 5.54–5.68 times as long as its greatest width | 10 | | |
+10a | Head 3.78–4.05 times as wide as greatest width of frons | | Simulium kuvangkadilokae | |
+10b | Head 4.30–4.54 times as wide as greatest width of frons | | Simulium piroonae | |
+11a | Head 6.7 times as wide as greatest width of frons | | Simulium tomae | |
+11b | Head 3.7–5.2 as wide as greatest width of frons | 12 | | | As printed (missing "times"; range 3.7–5.2 is slightly broader than couplet 12 values 4.7–5.2 and 3.9–4.0).
+12a | Head 4.7–5.2 times as wide as greatest width of frons | | Simulium varicorne | |
+12b | Head 3.9–4.0 as wide as greatest width of frons | 13 | | | As printed (missing "times").
+13a | Height of frons 1.7 times as long as narrowest width | | Simulium chumpornense | |
+13b | Height of frons 1.3–1.4 times as long as narrowest width | | Simulium sumbaense | |

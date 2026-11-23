@@ -1,0 +1,4 @@
+# key_id: takaoka2019_daviesellum_male
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 59. Covers: adult males of 2 Thai species of Simulium (Daviesellum).
+1a | Ventral plate much longer than wide when viewed ventrally | | Simulium courtneyi | | Takaoka et al. 2019 p. 59
+1b | Ventral plate much shorter than wide when viewed ventrally | | Simulium pahangense | |

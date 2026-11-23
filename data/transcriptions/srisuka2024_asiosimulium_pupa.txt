@@ -1,0 +1,14 @@
+# key_id: srisuka2024_asiosimulium_pupa
+# Srisuka, W., Takaoka, H., Taai, K., Maleewong, W., Aupalee, K. & Saeung, A. (2024) Morphological description and genetic analysis of a new black fly species (Diptera: Simuliidae) in the subgenus Asiosimulium from central Thailand. Parasites & Vectors 17: 379. Key on p. 16. Covers: pupae of 8 of the 9 known species of Simulium (Asiosimulium) (Thailand, Myanmar, Nepal). Footnote (p. 16): The pupa of S. shanense is unknown.
+1a | Head integument without tubercles | 2 | | | Srisuka et al. 2024 p. 16
+1b | Head integument with tubercles | 3 | | |
+2a | Gill with 28 filaments; basal fenestra at base of gill extremely bulbous | | Simulium suchitrae | |
+2b | Gill with 42–46 filaments; basal fenestra at base of gill normal, small | | Simulium saeungae | | As printed (Discussion p. 14 states 42–56 filaments in S. saeungae).
+3a | Thoracic integument sparsely covered with tubercles | | Simulium khongchiamense | |
+3b | Thoracic integument moderately or densely covered with tubercles | 4 | | |
+4a | Thoracic integument densely covered with tubercles | | Simulium kittipati | |
+4b | Thoracic integument moderately covered with tubercles | 5 | | |
+5a | Gill with 31–33 filaments | | Simulium oblongum; Simulium phurueaense | |
+5b | Gill with 19 or 22 filaments | 6 | | |
+6a | Gill with 19 filaments | | Simulium wanchaii | |
+6b | Gill with 22 filaments | | Simulium furvum | |

@@ -1,0 +1,8 @@
+# key_id: takaoka2019_asiosimulium_male
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 59. Covers: adult males of 5 Thai species of Simulium (Asiosimulium).
+1a | Hind basitarsus slightly widened, 0.75 times as wide as hind tibia | | Simulium oblongum; Simulium phurueaense | | Takaoka et al. 2019 p. 59
+1b | Hind basitarsus much widened, 0.94-0.96 times as wide as hind tibia | 2 | | |
+2a | Abdominal segments 5-7 each with pair of shiny dorsolateral patches | 3 | | |
+2b | Abdominal segments 5-7 without shiny patches | | Simulium wanchaii | |
+3a | Antenna yellow except apical flagellomere light brown | | Simulium saeungae | |
+3b | Antenna dark brown except scape, pedicel and base of first flagellomere yellow | | Simulium furvum | |

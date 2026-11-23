@@ -12,3 +12,4 @@ __pycache__/
 data/staging/
 sources/*/
 inbox/_download_report.json
+inbox/ 

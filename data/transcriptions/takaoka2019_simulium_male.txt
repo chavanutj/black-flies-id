@@ -1,0 +1,88 @@
+# key_id: takaoka2019_simulium_male
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 68-69. Covers: adult males of 53 Thai species of Simulium (Simulium) s. str. Footnote (p. 75): males of S. barnesi, S. bullatum, S. triglobus, S. kiewmaepanense and S. umphangense are unknown.
+1a | Basal section of radius fully haired | 2 | | | Takaoka et al. 2019 p. 68
+1b | Basal section of radius bare or with few hairs apically | 7 | | |
+2a | Abdomen with pair of shiny whitish pruinose spots dorsally or dorsolaterally on segments 2, 5, 6 and 7 | 3 | | |
+2b | Abdomen with pair of shiny white pruinose spots dorsally or dorsolaterally on segments 2, 6 and 7 | 4 | | |
+3a | Upper-eye facets in 17 vertical columns. Hind basitarsus nearly parallel-sided | | Simulium choochotei | |
+3b | Upper-eye facets in 20 vertical columns. Hind basitarsus spindle-shaped | | Simulium visuti | |
+4a | Fore basitarsus with thick dorsal hair crest. Hind basitarsus nearly parallel-sided | 5 | | |
+4b | Fore basitarsus with moderate dorsal hair crest. Hind basitarsus spindle-shaped | 6 | | |
+5a | Upper-eye facets in 20 vertical columns | | Simulium nigrogilvum | |
+5b | Upper-eye facets in 17 vertical columns | | Simulium vanellum | |
+6a | Upper-eye facets in 19 vertical columns. Ventral plate rectangular, nearly parallel-sided when viewed ventrally | | Simulium pukaengense | |
+6b | Upper-eye facets in 21 or 22 vertical columns. Ventral plate gradually narrowed posteriorly when viewed ventrally | | Simulium digrammicum | |
+7a | Scutum broadly silvery pruinose with transverse, inverted-V shaped, black band | 8 | | |
+7b | Scutum otherwise | 9 | | |
+8a | Ventral plate with narrow body, parallel-sided when viewed ventrally | | Simulium vanluni | |
+8b | Ventral plate with wide body, widened medially when viewed ventrally | | Simulium nodosum | |
+9a | Mid femur and tibia almost yellow | 10 | | |
+9b | Mid femur and tibia otherwise | 11 | | |
+10a | Hind tibia brownish black except base narrowly yellow | | Simulium rudnicki | |
+10b | Hind tibia dark brown to brownish black except base widely yellow | | Simulium crocinum | |
+11a | Mid tibia mostly dark (including posterior surface) | 12 | | |
+11b | Mid tibia whitish or yellowish (at least on posterior surface) on basal 2/5 or more and dark brown on rest | 29 | | |
+12a | Fore tibia medium brown, with white shiny area on outer surface | 13 | | |
+12b | Fore tibia medium to dark brown, without white area on outer surface | 27 | | |
+13a | Hind basitarsus white or whitish yellow on basal 1/2 or less and dark brown to brownish black on rest | 14 | | |
+13b | Hind basitarsus white or whitish yellow on more than basal 1/2 and light to dark brown on rest | 24 | | |
+14a | Hind basitarsus somewhat enlarged, 4.0-5.0 times as long as its greatest width, and much narrower than greatest width of hind tibia | 15 | | |
+14b | Hind basitarsus much enlarged, 3.2-3.5 times as long as its greatest width, and subequal to, or slightly wider than, greatest width of hind tibia | 18 | | |
+15a | Abdomen with dorsolateral pair of silvery spots on segments 2, 6 and 7 | | Simulium atipornae | |
+15b | Abdomen with dorsolateral pair of silvery spots on segments 2, 5, 6 and 7 | 16 | | |
+16a | Upper-eye facets in 19 vertical columns | | Simulium chamlongi | |
+16b | Upper-eye facets in 22-26 vertical columns | 17 | | |
+17a | Upper-eye facets in 22 or 23 vertical columns | | Simulium luculentum | |
+17b | Upper-eye facets in 24-26 vertical columns | | Simulium srisukai | |
+18a | Abdomen with dorsolateral pair of silvery spots on segments, 2, 4, 5, 6 and 7 | | Simulium bishopi | |
+18b | Abdomen with dorsolateral pair of silvery spots on segments, 2, 5, 6 and 7, or 2, 6 and 7 | 19 | | |
+19a | Abdomen with dorsolateral pair of silvery spots on segments 2, 5, 6 and 7 | | Simulium tani | | Printed as "S. tani (complex)".
+19b | Abdomen with dorsolateral pair of silvery spots on segments 2, 6 and 7 | 20 | | |
+20a | Upper-eye facets in 20 vertical columns | | Simulium setsukoae | |
+20b | Upper-eye facets in 15-18 vertical columns | 21 | | |
+21a | Hind basitarsus spindle-shaped | | Simulium manooni | |
+21b | Hind basitarsus wedge-shaped | 22 | | |
+22a | Style with well produced basal projection closely covered with spines | | Simulium brevipar; Simulium yuphae | |
+22b | Style with basal area somewhat produced, sparsely covered with several spines | 23 | | |
+23a | Fore basitarsus 7.2-8.2 times as long as its greatest width | | Simulium tenebrosum | | Printed as "S. tenebrosum (complex)".
+23b | Fore basitarsus 5.9-6.1 times as long as its greatest width | | Simulium doipuiense | | Printed as "S. doipuiense (complex)".
+24a | Hind basitarsus enlarged, whitish yellow on basal 3/5 or little less and dark brown on rest | 25 | | |
+24b | Hind basitarsus narrow (similar to that of female), parallel-sided, white except apical 1/6 light brown | 26 | | | Takaoka et al. 2019 p. 69
+25a | Hind basitarsus spindle-shaped | | Simulium lomkaoense | |
+25b | Hind basitarsus wedge-shaped | | Simulium weji | |
+26a | Hind tibia entirely brownish black | | Simulium siripoomense | |
+26b | Hind tibia brownish black except base narrowly yellow | | Simulium baimaii | |
+27a | Abdomen with dorsolateral pair of silvery spots on segments 2, 6 and 7 | | Simulium phukaense | |
+27b | Abdomen with dorsolateral pair of silvery spots on segments 2, 5, 6 and 7 | 28 | | |
+28a | Hind basitarsus whitish yellow on basal 1/2, brownish black on rest | | Simulium quinquestriatum | |
+28b | Hind basitarsus whitish yellow on basal 3/5 and brownish black on apical 2/5 | | Simulium chiangmaiense; Simulium nakhonense; Simulium phraense; Simulium thailandicum | |
+29a | Hind basitarsus whitish on basal 1/2 or little more and brownish black on rest. Body of ventral plate wider than long | 30 | | |
+29b | Hind basitarsus entirely light to dark brown, or so with basal 2/5-1/3 whitish yellow or dark yellow. Body of ventral plate longer than wide | 33 | | | As printed ("2/5-1/3", cf. couplet 33b "1/3-2/5").
+30a | Scutum covered with dark brown recumbent hairs only | | Simulium yongi | |
+30b | Scutum covered with golden-yellow recumbent hairs interspersed with brown hairs anteriorly | 31 | | |
+31a | Ventral plate with body nearly quadrate, shorter than arms | | Simulium mediocoloratum | |
+31b | Ventral plate with body rectangular, longer than arms | 32 | | |
+32a | Abdomen with dorsolateral pair of silvery spots on segments 2, 5, 6 and 7 | | Simulium grossifilum | |
+32b | Abdomen with dorsolateral pair of silvery spots on segments 2, 6 and 7 | | Simulium phayaoense | |
+33a | Hind basitarsus entirely light to dark brown | 34 | | |
+33b | Hind basitarsus brownish black with basal 1/3-2/5 whitish yellow or dark yellow | 36 | | |
+34a | Ventral plate in ventral view subquadrate, and with distinct teeth on posterior surface | | Simulium chaliowae | |
+34b | Ventral plate in ventral view gradually narrowed posteriorly, and without teethe on posterior surface | 35 | | | As printed ("teethe" for teeth).
+35a | Fore basitarsus 6.8 times as long as its greatest width | | Simulium maenoi | |
+35b | Fore basitarsus 5.4 times as long as its greatest width | | Simulium thongsahuani | |
+36a | Upper-eye facets in 20 or 21 vertical columns and 20 or 21 horizontal rows | 37 | | |
+36b | Upper-eye facets in 15-18 vertical columns and 16-19 horizontal rows | 40 | | |
+37a | Ventral plate without setae | | Simulium undecimum | |
+37b | Ventral plate with setae | 38 | | |
+38a | Ventral plate without teeth | | Simulium suchariti | |
+38b | Ventral plate with teeth | 39 | | |
+39a | Ventral plate in ventral view rounded posteriorly | | Simulium chainarongi | |
+39b | Ventral plate in ventral view with posterior margin concave | | Simulium takense | |
+40a | Upper-eye facets in 15 vertical columns and 16 horizontal rows. Ventral plate with 2 vertical rows of teeth nearly parallel-sided on posterior surface | | Simulium malayense | | Printed as "S. malayense (complex)".
+40b | Upper-eye facets in 17 or 18 vertical columns and 17-19 horizontal rows. Ventral plate with teeth irregularly situated on posterior surface | 41 | | |
+41a | Sensory vesicle 0.3-0.4 times as long as third palpomere of maxillary palp | | Simulium daoense | |
+41b | Sensory vesicle 0.2 times as long as third palpomere of maxillary palp | 42 | | |
+42a | Basal projection of style with 1 spine | | Simulium fenestratum | | Printed as "S. fenestratum (complex)".
+42b | Basal projection of style with several spines | 43 | | |
+43a | Mid tibia whitish except apical cap darkened | | Simulium chanyae | |
+43b | Mid tibia whitish on basal 2/5, then gradually darkened toward apex | | Simulium lampangense | |

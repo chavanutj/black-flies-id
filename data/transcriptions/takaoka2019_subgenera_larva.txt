@@ -1,0 +1,12 @@
+# key_id: takaoka2019_subgenera_larva
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 58-59. Covers: mature larvae of the 6 subgenera of Simulium in Thailand.
+1a | Hypostoma wide, with 12 or 13 apical teeth | | Subgenus Daviesellum | Subgenus Daviesellum | Takaoka et al. 2019 p. 58
+1b | Hypostoma of moderate width, with 9 apical teeth | 2 | | |
+2a | Postgenal cleft vestigial, very small | | Subgenus Montisimulium | Subgenus Montisimulium |
+2b | Postgenal cleft well defined, small to large | 3 | | |
+3a | Ventral papillae present, medium to large | 4 | | |
+3b | Ventral papillae absent or small if any | 5 | | |
+4a | Lateral margin of hypostoma serrated | | Subgenus Nevermannia | Subgenus Nevermannia |
+4b | Lateral margin of hypostoma smooth | | Subgenus Gomphostilbia | Subgenus Gomphostilbia |
+5a | Histoblast of pupal gill with 19-56 filaments | | Subgenus Asiosimulium | Subgenus Asiosimulium | Takaoka et al. 2019 p. 59
+5b | Histoblast of pupal gill with 2-10 filaments | | Subgenus Simulium | Subgenus Simulium |

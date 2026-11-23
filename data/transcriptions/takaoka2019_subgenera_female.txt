@@ -1,0 +1,12 @@
+# key_id: takaoka2019_subgenera_female
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 58. Covers: adult females of the 6 subgenera of Simulium in Thailand.
+1a | Katepisternum haired | | Subgenus Gomphostilbia | Subgenus Gomphostilbia | Takaoka et al. 2019 p. 58
+1b | Katepisternum bare | 2 | | |
+2a | Cibarium with distinct group of spinous processes medially | | Subgenus Asiosimulium | Subgenus Asiosimulium |
+2b | Cibarium without such processes medially | 3 | | |
+3a | Ovipositor valve tongue-shaped | 4 | | |
+3b | Ovipositor valve otherwise | 5 | | |
+4a | Basal section of radius haired | | Subgenus Montisimulium | Subgenus Montisimulium |
+4b | Basal section of radius bare | | Subgenus Daviesellum | Subgenus Daviesellum |
+5a | Claw with large basal tooth | | Subgenus Nevermannia | Subgenus Nevermannia |
+5b | Claw simple or with small subbasal tooth | | Subgenus Simulium | Subgenus Simulium |

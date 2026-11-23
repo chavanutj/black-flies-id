@@ -1,0 +1,16 @@
+# key_id: srisuka2024_asiosimulium_female
+# Srisuka, W., Takaoka, H., Taai, K., Maleewong, W., Aupalee, K. & Saeung, A. (2024) Morphological description and genetic analysis of a new black fly species (Diptera: Simuliidae) in the subgenus Asiosimulium from central Thailand. Parasites & Vectors 17: 379. Key on p. 15. Covers: adult females of 8 of the 9 known species of Simulium (Asiosimulium) (Thailand, Myanmar, Nepal). Footnote (p. 15): The female of S. shanense is unknown.
+1a | Cercus very elongated, about twice as long as its basal width | 2 | | | Srisuka et al. 2024 p. 15
+1b | Cercus normal or somewhat elongated, less than twice as long as its basal width | 3 | | |
+2a | Mandible with 20 inner and 12–13 outer teeth; highland species found at more than 1100 m above sea level | | Simulium phurueaense | |
+2b | Mandible with 22–24 inner and 8–10 outer teeth; lowland species found at less than 1000 m above sea level | | Simulium oblongum | |
+3a | Abdominal segment five shiny dorsally | 4 | | |
+3b | Abdominal segment five dull dorsally | 6 | | |
+4a | Spermatheca ellipsoidal | | Simulium kittipati | |
+4b | Spermatheca globular | 5 | | |
+5a | Cercus normal, 1.2 times as long as its basal width; genital fork without incision between arm | | Simulium wanchaii | | CORRECTION: printed as "genital folk".
+5b | Cercus elongated, 1.9 times as long as its basal width; genital fork with deep incision between arm | | Simulium khongchiamense | | CORRECTION: printed as "genital folk".
+6a | Spermatheca globular | | Simulium saeungae | |
+6b | Spermatheca pear-shaped | 7 | | |
+7a | Arm of genital fork with stout projection | | Simulium furvum | | CORRECTION: printed as "genital folk".
+7b | Arm of genital fork without projection | | Simulium suchitrae | | CORRECTION: printed as "genital folk".

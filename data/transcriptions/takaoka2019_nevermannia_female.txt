@@ -1,0 +1,14 @@
+# key_id: takaoka2019_nevermannia_female
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 64-65. Covers: adult females of 10 Thai species of Simulium (Nevermannia). Footnote (p. 66): female of S. wichaii is unknown.
+1a | Antenna yellow with at least first flagellomere darkened. Hind tibia yellow on basal 1/2, dark on distal 1/2, and with subbasal dark ring | | Simulium aureohirtum | | Takaoka et al. 2019 p. 64
+1b | Antenna almost all darkened or mostly so except few basal segments pale. Hind tibia brownish | 2 | | |
+2a | Scutum with 3 dark longitudinal vittae | 3 | | |
+2b | Scutum without longitudinal vittae | 6 | | |
+3a | Genital fork with strongly sclerotized horizontal bar at base of anterodorsal projection of each arm | | Simulium maeaiense | | Takaoka et al. 2019 p. 65
+3b | Genital fork without strongly sclerotized horizontal bar at base of anterodorsal projection of each arm | 4 | | |
+4a | Mandible with 17 or 18 inner teeth | | Simulium vessabutrae | |
+4b | Mandible with 20-23 inner teeth | 5 | | |
+5a | Frons : head ratio 1 : 5.4 | | Simulium feuerborni | | Printed as "S. feuerborni (complex)".
+5b | Frons : head ratio 1 : 4.6-5.2 | | Simulium chiangklangense; Simulium fangense; Simulium fruticosum | |
+6a | Hind basitarsus 7.2 times as long as its greatest width | | Simulium chomthongense | |
+6b | Hind basitarsus 6.8-6.9 times as long as its greatest width | | Simulium khunklangense | |

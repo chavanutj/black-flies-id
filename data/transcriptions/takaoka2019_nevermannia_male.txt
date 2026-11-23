@@ -1,0 +1,16 @@
+# key_id: takaoka2019_nevermannia_male
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 65. Covers: adult males of 10 Thai species of Simulium (Nevermannia). Footnote (p. 66): male of S. chiangklangense is unknown.
+1a | Antenna yellow or yellowish brown with first flagellomere darkened. Hind basitarsus slender, parallel-sided, much narrower than hind tibia | | Simulium aureohirtum | | Takaoka et al. 2019 p. 65
+1b | Antenna almost all darkened. Hind basitarsus inflated, and nearly as wide as hind tibia | 2 | | |
+2a | Paramere with 3-7 hooks | 3 | | | As printed; couplets 5-6 below include 8-9 hooks (S. vessabutrae 9 hooks; S. fruticosum & S. wichaii 6-8 hooks).
+2b | Paramere with 1 hook | 7 | | |
+3a | Upper-eye facets in 21 vertical columns | | Simulium fangense | |
+3b | Upper-eye facets in 14-19 vertical columns | 4 | | |
+4a | Upper-eye facets in 19 vertical columns | | Simulium maeaiense | |
+4b | Upper-eye facets in 14-17 vertical columns | 5 | | |
+5a | Upper-eye facets in 17 vertical columns. Paramere with 9 hooks | | Simulium vessabutrae | | As printed; couplet 2a gives 3-7 hooks.
+5b | Upper-eye facets in 14-16 vertical columns. Paramere with 3-8 hooks | 6 | | | As printed; couplet 2a gives 3-7 hooks.
+6a | Upper-eye facets in 16 vertical columns. Paramere with 3 or 4 hooks | | Simulium feuerborni | | Printed as "S. feuerborni (complex)".
+6b | Upper-eye facets in 14 or 15 vertical columns. Paramere with 6-8 hooks | | Simulium fruticosum; Simulium wichaii | |
+7a | Upper-eye facets in 15 or 16 vertical columns | | Simulium chomthongense | |
+7b | Upper-eye facets in 18 vertical columns | | Simulium khunklangense | |

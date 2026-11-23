@@ -1,0 +1,8 @@
+# key_id: takaoka2019_montisimulium_male
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on p. 64. Covers: adult males of 6 Thai species of Simulium (Montisimulium). Footnote (p. 64): males of S. phahompokense and S. surachaii are unknown.
+1a | Hind basitarsus 5.4-5.9 times as long as its greatest width | | Simulium angkaense | | Takaoka et al. 2019 p. 64
+1b | Hind basitarsus 4.5-4.9 times as long as its greatest width | 2 | | |
+2a | Hind basitarsus subequal in width to hind femur | | Simulium merga | |
+2b | Hind basitasus 0.8 or 0.9 times as wide as hind femur | 3 | | | As printed ("basitasus" for basitarsus).
+3a | Hind basitarsus 0.9 times as wide as hind femur | | Simulium laoleense | |
+3b | Hind basitarsus 0.8 times as wide as hind femur | | Simulium nanense | |

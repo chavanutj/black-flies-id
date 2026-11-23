@@ -1,0 +1,16 @@
+# key_id: takaoka2019_nevermannia_larva
+# Takaoka, H., Srisuka, W. & Saeung, A. (2019) Checklist and keys for the black flies (Diptera: Simuliidae) of Thailand. Med. Entomol. Zool. 70(2): 53-77. Key on pp. 65-66. Covers: mature larvae of 10 Thai species of Simulium (Nevermannia). Footnote (p. 66): larva of S. chiangklangense is unknown.
+1a | Abdomen with characteristic reddish-brown markings dorsally | 2 | | | Takaoka et al. 2019 p. 65
+1b | Abdomen without colored markings dorsally | 7 | | |
+2a | Thoracic segment 1 with tawny transverse band dorsally | 3 | | |
+2b | Thoracic segment 1 without colored band dorsally | 4 | | |
+3a | Ventral surface of head capsule darkened medially | | Simulium feuerborni | | Printed as "S. feuerborni (complex)".
+3b | Ventral surface of head capsule not darkened medially | | Simulium vessabutrae | |
+4a | Labral fan with 16 primary rays | | Simulium wichaii | |
+4b | Labral fan with 23 or more primary rays | 5 | | |
+5a | Postgenal cleft 0.3 times as long as postgenal bridge | | Simulium maeaiense | |
+5b | Postgenal cleft 0.5-0.6 times as long as postgenal bridge | 6 | | |
+6a | Each lobe of rectal organ with 17-21 secondary lobules | | Simulium fangense | | Takaoka et al. 2019 p. 66
+6b | Each lobe of rectal organ with 11 or 12 secondary lobules | | Simulium fruticosum | |
+7a | Accessory sclerite present | | Simulium chomthongense; Simulium khunklangense | |
+7b | Accessory sclerite absent | | Simulium aureohirtum | |
