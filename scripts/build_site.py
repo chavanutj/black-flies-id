@@ -303,7 +303,9 @@ def lead_html(l, prefix, kid, idp=""):
     """One lead. idp prefixes the anchors so several keys can share one page (keys.html)."""
     res = (f'<a class="goto" href="#{idp}c{esc(l["goto"])}" data-goto="{esc(l["goto"])}">→ {esc(l["goto"])}</a>' if l["goto"]
            else " ; ".join(taxon_link(n.strip(), prefix) for n in l["taxon"].split(";") if n.strip()))
-    group = f'<span class="group">{italic_names(l["group"])}</span>' if l["group"] else ""
+    _names = {n.strip() for n in l["taxon"].split(";") if n.strip()}
+    show_group = l["group"] and l["group"].strip() not in _names
+    group = f'<span class="group">{italic_names(l["group"])}</span>' if show_group else ""
     warn = ""
     notes = []
     if l["note"]:
@@ -339,8 +341,8 @@ def build_keys():
         n_taxa = len({n.strip() for l in ls for n in l["taxon"].split(";") if n.strip()})
         n_notes = sum(1 for l in ls if l["note"] or l["update_note"])
         s = sources[k["source_id"]]
-        body = f"""<p class="crumb"><a href="../keys.html">Keys</a> › {esc(k['title'])}</p>
-<h1>{esc(k['title'])}</h1>
+        body = f"""<p class="crumb"><a href="../keys.html">Keys</a> › {italic_names(k['title'])}</p>
+<h1>{italic_names(k['title'])}</h1>
 <p>{italic_names(k['description'])}</p>
 <table class="meta"><tr><th>Source</th><td>{esc(s['citation'])} {f'<a href="{esc(s["doi_or_url"])}">{esc(s["doi_or_url"])}</a>' if s['doi_or_url'] else ''}</td></tr>
 <tr><th>Region</th><td>{esc(k['region'])}</td></tr><tr><th>Sexes</th><td>{esc(k['sexes'])}</td></tr>
@@ -350,7 +352,7 @@ def build_keys():
 <p class="stepnav"><button class="back">◀ Back</button> <button class="restart">Restart</button></p></div>
 <div id="fullkey" class="key">{''.join(couplets)}</div>"""
         write(f"keys/{kid}.html", page(k["title"], body, "../", "keys.html"))
-        rows.append(f'<tr><td><a href="#key-{kid}" data-show="{kid}">{esc(k["title"])}</a></td><td>{cite(k["source_id"])}</td>'
+        rows.append(f'<tr><td><a href="#key-{kid}" data-show="{kid}">{italic_names(k["title"])}</a></td><td>{cite(k["source_id"])}</td>'
                     f'<td>{esc(k["region"])}</td><td>{esc(k["sexes"])}</td><td class="num">{len(seen)}</td><td class="num">{n_taxa}</td>'
                     f'<td><a href="keys/{kid}.html">step through ›</a></td></tr>')
         # the same key, embedded on keys.html (anchors prefixed with the key id)
@@ -358,7 +360,7 @@ def build_keys():
             f'<section class="couplet" id="{kid}-c{esc(c)}" data-c="{esc(c)}">'
             + "".join(lead_html(l, "", kid, f"{kid}-") for l in sorted([x for x in ls if x["couplet"] == c], key=lambda x: x["lead"]))
             + "</section>" for c in seen)
-        embedded.append(f'<div class="dkey" id="key-{kid}" data-key="{kid}"><h2>{esc(k["title"])}</h2>'
+        embedded.append(f'<div class="dkey" id="key-{kid}" data-key="{kid}"><h2>{italic_names(k["title"])}</h2>'
                         f'<p class="muted">{esc(s["short"])} · {esc(k["region"])} · {len(seen)} couplets · start at couplet '
                         f'<a href="#{kid}-c{esc(k["start"])}">{esc(k["start"])}</a> · '
                         f'<a href="keys/{kid}.html">step-through version ›</a></p><div class="key">{emb}</div></div>')
@@ -403,7 +405,7 @@ def build_taxa():
                 steps = "".join(f'<li><a href="../keys/{kid}.html#l{esc(l["lead_id"])}">{esc(l["lead_id"])}</a> '
                                 f'{italic_names(l["text"])}{" <span class=warn>⚠</span>" if (l["note"] or l["update_note"]) else ""}</li>'
                                 for l in trail)
-                key_paths.append(f'<details><summary>{esc(k["title"])} ({cite(k["source_id"], "../")}) – couplet '
+                key_paths.append(f'<details><summary>{italic_names(k["title"])} ({cite(k["source_id"], "../")}) – couplet '
                                  f'{esc(trail[-1]["lead_id"])}</summary><ol class="path">{steps}</ol></details>')
         figs = [figures[f] for f in t["figure_ids"].split(";") if f in figures]
         fig_html = "".join(f'<figure><a href="../{esc(f["file"])}"><img loading="lazy" src="../{esc(f["file"])}" alt=""></a>'
